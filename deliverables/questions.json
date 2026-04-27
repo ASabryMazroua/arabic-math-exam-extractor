@@ -4,192 +4,253 @@
       "page_key": "image",
       "source_image": "image.jpg",
       "page_number": 8,
+      "selected_candidate": "rot0",
+      "page_type": "mcq",
+      "title_ar": "رياضيات - 400 سؤال",
+      "question_numbers_scanned": [
+        1,
+        7,
+        11,
+        16,
+        17,
+        18,
+        26,
+        27,
+        46,
+        50
+      ],
+      "answer_key": {
+        "1": "A",
+        "7": "D",
+        "11": "C",
+        "16": "B",
+        "17": "C",
+        "18": "A",
+        "26": "B",
+        "27": "A",
+        "46": "C",
+        "50": "C"
+      },
       "questions": [
         {
           "number": 1,
-          "text_ar": "إذا كان $\\triangle ABC \\sim \\triangle EFG$ فإن ..",
+          "text_ar": "إذا كان \\( \\triangle ABC \\sim \\triangle EFG \\) فإن ...",
           "options": {
-            "A": "$\\angle B \\equiv \\angle C$",
-            "B": "$\\angle A \\equiv \\angle G$",
-            "C": "$\\overline{AC} \\equiv \\overline{EF}$",
-            "D": "$\\angle A \\equiv \\angle E$"
+            "A": "\\( \\angle A \\equiv \\angle E \\)",
+            "B": "\\( \\angle A \\equiv \\angle G \\)",
+            "C": "\\( AC \\equiv EF \\)",
+            "D": "\\( AB \\equiv EF \\)"
           },
-          "correct": "D",
+          "correct": "A",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 7,
-          "text_ar": "مثلثان متشابهان، أضلاع المثلث الأكبر $9, 15, 18$ نسبة التشابه بينهم $\\frac{2}{3}$، فما محيط المثلث الأصغر؟",
+          "text_ar": "مثلثان متشابهان، أطوال أضلاع المثلث الأكبر 9, 15, 18 ونسبة التشابه 2 : 3، فما محيط المثلث الأصغر؟",
           "options": {
-            "A": "12",
-            "B": "24",
-            "C": "28",
-            "D": "14"
+            "A": "26",
+            "B": "14",
+            "C": "24",
+            "D": "28"
           },
-          "correct": "C",
+          "correct": "D",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 11,
-          "text_ar": "ما صورة النقطة $B(2,3)$ الناتجة من الإزاحة $(x, y) \\rightarrow (x + 4, y - 5)$؟",
+          "text_ar": "ما صورة النقطة B(2,3) الناتجة من الإزاحة (x, y) → (x + 4, y – 5)؟",
           "options": {
-            "A": "$(6,0)$",
-            "B": "$(4,5)$",
-            "C": "$(6,-2)$",
-            "D": "$(-2,6)$"
+            "A": "(4, -5)",
+            "B": "(6, 0)",
+            "C": "(6, -2)",
+            "D": "(-2, 6)"
           },
           "correct": "C",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
-          "notes": "تكرر 2023"
+          "notes": ""
         },
         {
           "number": 16,
-          "text_ar": "ما محيط المثلث $ABC$؟",
+          "text_ar": "ما محيط المثلث ABC؟",
           "options": {
-            "A": "24",
+            "A": "36",
             "B": "30",
             "C": "32",
-            "D": "36"
+            "D": "24"
           },
           "correct": "B",
           "has_diagram": true,
-          "diagram_region_id": 7,
-          "diagram_bbox": null,
+          "diagram_bbox": [
+            0.05,
+            0.6,
+            0.35,
+            0.75
+          ],
           "notes": "",
-          "diagram_path": "images/q16_diagram.png",
+          "diagram_path": "images/question_16_diagram.png",
           "deliverable_image": "image_question_16_diagram.png"
         },
         {
           "number": 17,
-          "text_ar": "كم عدد أضلاع المضلع المنتظم الذي قياس زاويته الداخلية $135^\\circ$؟",
+          "text_ar": "كم عدد أضلاع المضلع المنتظم الذي قياس زاويته الداخلية 135°؟",
           "options": {
-            "A": "4",
-            "B": "8",
-            "C": "5",
+            "A": "6",
+            "B": "5",
+            "C": "8",
             "D": "7"
           },
-          "correct": "B",
+          "correct": "C",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 18,
-          "text_ar": "سداسي منتظم صُنعَت منه شجرة مشابك بقص ستة مثلثات قائمة متساوية ومتطابقة، بحيث كانت أحرف السداسي أوزانًا في المثلثات المقطوعة، وكان $m\\angle XYZ = 45^\\circ$، أوجد $m\\angle XZR$.",
+          "text_ar": "خماسي منتظم انطلقت منه قائمة الزاوية ومماسية تتقاطعان في نقطة داخلية، إذا كان قياس الزاوية المحصورة بين المماس والقائمة 45°، فما قياس الزاوية \\( m\triangle XZR \\)؟",
           "options": {
-            "A": "30^\\circ",
-            "B": "45^\\circ",
-            "C": "60^\\circ",
-            "D": "50^\\circ"
+            "A": "30°",
+            "B": "45°",
+            "C": "60°",
+            "D": "50°"
           },
           "correct": "A",
           "has_diagram": true,
-          "diagram_region_id": 2,
-          "diagram_bbox": null,
+          "diagram_bbox": [
+            0.55,
+            0.18,
+            0.85,
+            0.38
+          ],
           "notes": "",
-          "diagram_path": "images/q18_diagram.png",
+          "diagram_path": "images/question_18_diagram.png",
           "deliverable_image": "image_question_18_diagram.png"
         },
         {
           "number": 26,
-          "text_ar": "قيمة $x$ في الشكل تساوي..",
+          "text_ar": "قيمة x في الشكل تساوي:",
           "options": {
-            "A": "1",
+            "A": "4",
             "B": "6",
             "C": "8",
             "D": "المعطيات غير كافية"
           },
           "correct": "B",
           "has_diagram": true,
-          "diagram_region_id": 3,
-          "diagram_bbox": null,
+          "diagram_bbox": [
+            0.05,
+            0.38,
+            0.35,
+            0.55
+          ],
           "notes": "",
-          "diagram_path": "images/q26_diagram.png",
+          "diagram_path": "images/question_26_diagram.png",
           "deliverable_image": "image_question_26_diagram.png"
         },
         {
           "number": 27,
-          "text_ar": "في الشكل المقابل: إذا كان $m\\angle 1 = m\\angle 2$ فما قيمة $x$؟",
+          "text_ar": "في الشكل المقابل، إذا كان \\( m1 = m2 \\) فما قيمة x؟",
           "options": {
             "A": "4",
-            "B": "3",
-            "C": "6",
-            "D": "5"
+            "B": "6",
+            "C": "5",
+            "D": "2"
           },
-          "correct": "B",
+          "correct": "A",
           "has_diagram": true,
-          "diagram_region_id": 5,
-          "diagram_bbox": null,
+          "diagram_bbox": [
+            0.05,
+            0.18,
+            0.35,
+            0.35
+          ],
           "notes": "",
-          "diagram_path": "images/q27_diagram.png",
+          "diagram_path": "images/question_27_diagram.png",
           "deliverable_image": "image_question_27_diagram.png"
         },
         {
           "number": 46,
-          "text_ar": "في المعين $ABCD$ ما قيمة $x$؟",
+          "text_ar": "في المعين ABCD ما قيمة x؟",
           "options": {
-            "A": "30^\\circ",
-            "B": "20^\\circ",
-            "C": "120^\\circ",
-            "D": "60^\\circ"
+            "A": "30°",
+            "B": "60°",
+            "C": "120°",
+            "D": "90°"
           },
           "correct": "C",
           "has_diagram": true,
-          "diagram_region_id": 4,
-          "diagram_bbox": null,
+          "diagram_bbox": [
+            0.55,
+            0.38,
+            0.85,
+            0.55
+          ],
           "notes": "",
-          "diagram_path": "images/q46_diagram.png",
+          "diagram_path": "images/question_46_diagram.png",
           "deliverable_image": "image_question_46_diagram.png"
         },
         {
           "number": 50,
-          "text_ar": "في المعين $ABCD$، إذا كان $AC = 10$ و $BD = 24$، فاوْجد طول ضلع المعين.",
+          "text_ar": "في المعين ABCD، إذا كان AC=10 و BD=24، فأوجد طول ضلع المعين.",
           "options": {
-            "A": "5",
-            "B": "8",
+            "A": "8",
+            "B": "15",
             "C": "13",
-            "D": "15"
+            "D": "5"
           },
           "correct": "C",
           "has_diagram": true,
-          "diagram_region_id": 1,
-          "diagram_bbox": null,
+          "diagram_bbox": [
+            0.55,
+            0.6,
+            0.85,
+            0.75
+          ],
           "notes": "",
-          "diagram_path": "images/q50_diagram.png",
+          "diagram_path": "images/question_50_diagram.png",
           "deliverable_image": "image_question_50_diagram.png"
         }
       ],
-      "answer_key": {
-        "50": "C",
-        "17": "B",
-        "18": "A",
-        "26": "B",
-        "27": "B",
-        "46": "C",
-        "11": "C",
-        "16": "B",
-        "7": "C",
-        "1": "D",
-        "6": "B"
-      }
+      "quality_notes": "تم استخراج جميع الأسئلة بوضوح مع مطابقة الإجابات الصحيحة من جدول الإجابة المظلل. تم تحديد مربعات الرسوم التوضيحية بشكل تقريبي حسب أماكنها النسبية.",
+      "content_blocks": []
     },
     {
       "page_key": "WhatsApp_Image_2026-01-11_at_3.08.37_PM",
       "source_image": "WhatsApp Image 2026-01-11 at 3.08.37 PM.jpeg",
       "page_number": 30,
+      "selected_candidate": "rot0",
+      "page_type": "mcq",
+      "title_ar": "الرياضيات - التصفي العلمي",
+      "question_numbers_scanned": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "answer_key": {
+        "1": "B",
+        "2": "B",
+        "3": "D",
+        "4": "C",
+        "5": "A",
+        "6": "C",
+        "7": "B",
+        "8": "C",
+        "9": "B"
+      },
       "questions": [
         {
           "number": 1,
-          "text_ar": "أي الدوال التالية لها ثلاث أصفار حقيقية",
+          "text_ar": "أي الدوال التالية لها ثلاث أصفار حقيقية؟",
           "options": {
             "A": "",
             "B": "",
@@ -198,65 +259,61 @@
           },
           "correct": "B",
           "has_diagram": true,
-          "diagram_region_id": null,
           "diagram_bbox": [
-            0.02,
-            0.13,
-            0.98,
-            0.32
+            0.08,
+            0.08,
+            0.92,
+            0.19
           ],
-          "notes": "",
-          "diagram_path": "WhatsApp_Image_2026-01-11_at_3.08.37_PM/q1_diagram.png",
+          "notes": "كل الخيارات رسومات بيانية.",
+          "diagram_path": "images/question_1_diagram.png",
           "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_1_diagram.png"
         },
         {
           "number": 2,
-          "text_ar": "ناتج ضرب العددين المركبين $2 + 6i$ و $2 - 6i$ هو",
+          "text_ar": "ناتج ضرب العددين المركبين (2 + 6i)(2 - 6i) هو",
           "options": {
-            "A": "-32",
+            "A": "32-36i",
             "B": "40",
-            "C": "4 - 36i",
-            "D": "4 + 36i"
+            "C": "4-36i",
+            "D": "4+36i"
           },
           "correct": "B",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 3,
-          "text_ar": "ما قيمة $\\frac{26i}{3-2i}$ ؟",
+          "text_ar": "قيمة 3(3+6i)^2 تساوي",
           "options": {
-            "A": "36 - 27i",
-            "B": "3 + 6i",
-            "C": "-4 - 6i",
-            "D": "-4 + 6i"
+            "A": "36-27i",
+            "B": "9+36i",
+            "C": "9-36i",
+            "D": "-27+36i"
           },
           "correct": "D",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 4,
-          "text_ar": "قيمة $i^{25}$ تساوي",
+          "text_ar": "5i(7i) =",
           "options": {
-            "A": "i",
-            "B": "-1",
-            "C": "1",
-            "D": "-i"
+            "A": "70",
+            "B": "-70",
+            "C": "-35",
+            "D": "35"
           },
           "correct": "C",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 5,
-          "text_ar": "قيمة $i^{12}$ تساوي",
+          "text_ar": "حيث i = \\sqrt{-1} فإن i^{12} تساوي",
           "options": {
             "A": "1",
             "B": "-1",
@@ -265,58 +322,54 @@
           },
           "correct": "A",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 6,
-          "text_ar": "9 - 36i (C    27 + 36i (D    9 + 36i (B    36 - 27i (A",
+          "text_ar": "قيمة \\frac{2}{i} تساوي",
           "options": {
-            "A": "36 - 27i",
-            "B": "9 + 36i",
-            "C": "9 - 36i",
-            "D": "27 + 36i"
+            "A": "i",
+            "B": "-i",
+            "C": "-2i",
+            "D": "2i"
           },
-          "correct": "D",
+          "correct": "C",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 7,
-          "text_ar": "حيث $i = \\sqrt{-1}$ فإن $5i(7i) = ...$",
+          "text_ar": "4 + 36i =",
           "options": {
-            "A": "70",
-            "B": "-70",
-            "C": "35",
-            "D": "-35"
+            "A": "-4+36i",
+            "B": "-4-36i",
+            "C": "4-36i",
+            "D": "4+36i"
           },
-          "correct": "C",
+          "correct": "B",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 8,
-          "text_ar": "مجموعة حل المعادلة $x^4 - 16 = 0$ هي",
+          "text_ar": "مجموعة حل المعادلة 16 = x^4 هي",
           "options": {
-            "A": "\\{4, -4\\}",
-            "B": "\\{4\\}",
-            "C": "\\{2, -2, 2i, -2i\\}",
-            "D": "\\{2, -2\\}"
+            "A": "{4, -4}",
+            "B": "{4}",
+            "C": "{2, -2, 2i, -2i}",
+            "D": "{2, -2}"
           },
           "correct": "C",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 9,
-          "text_ar": "كم صفرا حقيقيا للدالة الممثلة المقابلة",
+          "text_ar": "كم صفراً حقيقياً للدالة الممثلة في المقابلة",
           "options": {
             "A": "1",
             "B": "2",
@@ -325,325 +378,1041 @@
           },
           "correct": "B",
           "has_diagram": true,
-          "diagram_region_id": null,
           "diagram_bbox": [
-            0.13,
-            0.53,
-            0.54,
-            0.87
+            0.08,
+            0.62,
+            0.55,
+            0.92
           ],
-          "notes": "",
-          "diagram_path": "WhatsApp_Image_2026-01-11_at_3.08.37_PM/q9_diagram.png",
+          "notes": "الخيار يحتوي على رسم بياني واحد.",
+          "diagram_path": "images/question_9_diagram.png",
           "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_9_diagram.png"
         }
       ],
-      "answer_key": {
-        "1": "B",
-        "2": "B",
-        "3": "D",
-        "4": "C",
-        "5": "A",
-        "6": "D",
-        "7": "C",
-        "8": "C",
-        "9": "B"
-      }
+      "quality_notes": "تم استخراج جميع الأسئلة والخيارات بشكل واضح، مع وجود مفتاح الإجابة. تم الحفاظ على ترتيب الأسئلة والخيارات. تم تحديد الرسومات البيانية بدقة.",
+      "content_blocks": []
     },
     {
       "page_key": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1",
       "source_image": "WhatsApp Image 2026-01-11 at 3.08.38 PM 1.jpeg",
       "page_number": 53,
-      "questions": []
+      "orientation_degrees_clockwise_to_upright": 90,
+      "page_type": "mcq",
+      "title_ar": "حساب المثلثات",
+      "questions": [
+        {
+          "number": 1,
+          "text_ar": "عند تبسيط العبارات المثلثية نستخدم ثلاث علاقات هامة لبدائل الدوال المثلثية",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "section"
+        },
+        {
+          "number": 2,
+          "text_ar": "\\sin^2 \\theta + \\cos^2 \\theta = 1",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "identity"
+        },
+        {
+          "number": 3,
+          "text_ar": "\\tan^2 \\theta + 1 = \\sec^2 \\theta",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "identity"
+        },
+        {
+          "number": 4,
+          "text_ar": "1 + \\cot^2 \\theta = \\csc^2 \\theta",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "identity"
+        },
+        {
+          "number": 5,
+          "text_ar": "\\sin \\theta = \\frac{1}{\\csc \\theta}",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "identity"
+        },
+        {
+          "number": 6,
+          "text_ar": "\\cos \\theta = \\frac{1}{\\sec \\theta}",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "identity"
+        },
+        {
+          "number": 7,
+          "text_ar": "\\tan \\theta = \\frac{1}{\\cot \\theta}",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "identity"
+        },
+        {
+          "number": 8,
+          "text_ar": "\\csc \\theta = \\frac{1}{\\sin \\theta}",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "identity"
+        },
+        {
+          "number": 9,
+          "text_ar": "\\sec \\theta = \\frac{1}{\\cos \\theta}",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "identity"
+        },
+        {
+          "number": 10,
+          "text_ar": "\\cot \\theta = \\frac{1}{\\tan \\theta}",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "identity"
+        },
+        {
+          "number": 11,
+          "text_ar": "استنتاجات الدوال المثلثية",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "rule"
+        },
+        {
+          "number": 12,
+          "text_ar": "\\sin(-\\theta) = -\\sin(\\theta)",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "identity"
+        },
+        {
+          "number": 13,
+          "text_ar": "\\cos(-\\theta) = \\cos(\\theta)",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "identity"
+        },
+        {
+          "number": 14,
+          "text_ar": "\\tan(-\\theta) = -\\tan(\\theta)",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "identity"
+        },
+        {
+          "number": 15,
+          "text_ar": "حل المعادلات المثلثية ومراجعة جيب الحل",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "rule"
+        },
+        {
+          "number": 16,
+          "text_ar": "الدوال العكسية كجدول الدوال الدائرية\ny = \\sin^{-1} x\nالمجال = [-1, 1]\nالمدى = \\left[ -\\frac{\\pi}{2}, \\frac{\\pi}{2} \\right]",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "definition"
+        },
+        {
+          "number": 17,
+          "text_ar": "الدوال العكسية كجدول الدوال الدائرية\ny = \\cos^{-1} x\nالمجال = [-1, 1]\nالمدى = [0, \\pi]",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "definition"
+        },
+        {
+          "number": 18,
+          "text_ar": "الدوال العكسية كجدول الدوال الدائرية\ny = \\tan^{-1} x\nالمجال = ( -\\infty, \\infty )\nالمدى = \\left( -\\frac{\\pi}{2}, \\frac{\\pi}{2} \\right)",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "definition"
+        },
+        {
+          "number": 19,
+          "text_ar": "الدوال العكسية كجدول الدوال الدائرية\ny = \\arcsin(b\\theta)\nطول الدورة = \\frac{360}{|b|}\nالمدى = [-1, 1]",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": true,
+          "diagram_bbox": [
+            0.13,
+            0.38,
+            0.38,
+            0.57
+          ],
+          "notes": "definition",
+          "diagram_path": "images/block_def4_diagram.png",
+          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_19_diagram.png"
+        },
+        {
+          "number": 20,
+          "text_ar": "الدوال العكسية كجدول الدوال الدائرية\ny = \\arccos(b\\theta)\nطول الدورة = \\frac{360}{|b|}\nالمدى = [-1, 1]",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": true,
+          "diagram_bbox": [
+            0.41,
+            0.38,
+            0.66,
+            0.57
+          ],
+          "notes": "definition",
+          "diagram_path": "images/block_def5_diagram.png",
+          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_20_diagram.png"
+        },
+        {
+          "number": 21,
+          "text_ar": "الدوال العكسية كجدول الدوال الدائرية\ny = \\arctan(b\\theta)\nطول الدورة = \\frac{180}{|b|}\nالمدى = ( -\\infty, \\infty )",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": true,
+          "diagram_bbox": [
+            0.69,
+            0.38,
+            0.93,
+            0.57
+          ],
+          "notes": "definition",
+          "diagram_path": "images/block_def6_diagram.png",
+          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_21_diagram.png"
+        }
+      ],
+      "content_blocks": [],
+      "answer_key": null,
+      "quality_notes": "تم استخراج جميع القوانين والعلاقات والرسوم البيانية بوضوح. تم تقدير مربعات الرسوم البيانية بناءً على مواقعها النسبية في الصورة.",
+      "question_numbers_scanned": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
     },
     {
       "page_key": "WhatsApp_Image_2026-01-11_at_3.08.38_PM",
       "source_image": "WhatsApp Image 2026-01-11 at 3.08.38 PM.jpeg",
       "page_number": 81,
-      "questions": []
+      "selected_candidate": "targeted_upright",
+      "page_type": "mcq",
+      "title_ar": "النهايات بيانياً",
+      "question_numbers_scanned": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "answer_key": null,
+      "questions": [
+        {
+          "number": 1,
+          "text_ar": "في أي من الرسومات التالية تعتمد النهاية على قيمة الدالة؟",
+          "options": {
+            "A": "الرسم الأول (الدالة متصلة)",
+            "B": "الرسم الثاني (الدالة غير متصلة)",
+            "C": "الرسم الثالث (الدالة غير معرفة عند x)",
+            "D": "غير واضح في الصورة"
+          },
+          "correct": null,
+          "has_diagram": true,
+          "diagram_bbox": [
+            60,
+            90,
+            700,
+            220
+          ],
+          "notes": "ثلاث رسومات بيانية توضح حالات اتصال وعدم اتصال الدالة."
+        },
+        {
+          "number": 2,
+          "text_ar": "ما سبب عدم وجود النهاية في الرسم البياني المجاور؟",
+          "options": {
+            "A": "عدم اتصال",
+            "B": "قابلية للازاحة",
+            "C": "غير معرفة",
+            "D": "غير واضح في الصورة"
+          },
+          "correct": null,
+          "has_diagram": true,
+          "diagram_bbox": [
+            70,
+            250,
+            220,
+            370
+          ],
+          "notes": "رسم بياني لدالة غير معرفة عند x=1."
+        },
+        {
+          "number": 3,
+          "text_ar": "كلما اقتربت الدالة من الصفر، تقترب الدالة بقيمتين شديدتي السلوك التذبذبي.",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "ملاحظة نظرية حول سلوك الدالة."
+        },
+        {
+          "number": 4,
+          "text_ar": "النهاية غير موجودة لأن الدالة بلا حدود من جهة وتتناقص من الأخرى.",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": true,
+          "diagram_bbox": [
+            250,
+            250,
+            400,
+            370
+          ],
+          "notes": "رسم بياني لدالة تقترب من المالانهاية من جهة وسالب مالانهاية من الجهة الأخرى."
+        },
+        {
+          "number": 5,
+          "text_ar": "lim_{x \\to 0^+} f(x) = \\infty \nlim_{x \\to 0^-} f(x) = -\\infty",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "سؤال عن نهاية دالة عند الصفر من اليمين واليسار."
+        },
+        {
+          "number": 6,
+          "text_ar": "lim_{x \\to 0^+} f(x) = 2 \nlim_{x \\to 0^-} f(x) = -2",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "سؤال عن نهاية دالة عند الصفر من اليمين واليسار."
+        },
+        {
+          "number": 7,
+          "text_ar": "سلوك طرفي التمثيل البياني للنهاية عند اللانهاية:\nlim_{x \\to \\infty} f(x) = 0, \\quad lim_{x \\to -\\infty} f(x) = 0",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": true,
+          "diagram_bbox": [
+            70,
+            420,
+            220,
+            540
+          ],
+          "notes": "رسم بياني لدالة تقترب من الصفر عند الطرفين."
+        }
+      ],
+      "quality_notes": "الصفحة تحتوي على شروحات نظرية ورسومات بيانية مع أسئلة قصيرة أو ملاحظات، لا توجد خيارات واضحة لكل سؤال، ولا يوجد جدول إجابات.",
+      "content_blocks": []
     },
     {
       "page_key": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_2",
       "source_image": "WhatsApp Image 2026-01-11 at 3.08.39 PM 2.jpeg",
       "page_number": 29,
-      "questions": []
+      "selected_candidate": "targeted_upright",
+      "page_type": "mcq",
+      "title_ar": "الأعداد المركبة",
+      "question_numbers_scanned": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "answer_key": null,
+      "questions": [
+        {
+          "number": 1,
+          "text_ar": "لها صفر واحد حقيقي",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": true,
+          "diagram_bbox": [
+            35,
+            670,
+            170,
+            800
+          ],
+          "notes": "رسم بياني لدالة تقطع المحور x في نقطة واحدة"
+        },
+        {
+          "number": 2,
+          "text_ar": "لها 3 أصفار حقيقية",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": true,
+          "diagram_bbox": [
+            200,
+            670,
+            340,
+            800
+          ],
+          "notes": "رسم بياني لدالة تقطع المحور x في ثلاث نقاط"
+        },
+        {
+          "number": 3,
+          "text_ar": "لها 4 أصفار حقيقية",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": true,
+          "diagram_bbox": [
+            370,
+            670,
+            510,
+            800
+          ],
+          "notes": "رسم بياني لدالة تقطع المحور x في أربع نقاط"
+        },
+        {
+          "number": 4,
+          "text_ar": "ليس لها أصفار حقيقية",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": true,
+          "diagram_bbox": [
+            540,
+            670,
+            680,
+            800
+          ],
+          "notes": "رسم بياني لدالة لا تقطع المحور x"
+        }
+      ],
+      "quality_notes": "الصفحة تحتوي على أمثلة وشروحات نظرية بالإضافة إلى أربعة رسومات بيانية كل منها يمثل سؤالاً حول عدد الأصفار الحقيقية للدوال. لا توجد خيارات أو مفتاح إجابة ظاهر.",
+      "content_blocks": []
     },
     {
       "page_key": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3",
       "source_image": "WhatsApp Image 2026-01-11 at 3.08.39 PM 3.jpeg",
       "page_number": 20,
+      "selected_candidate": "targeted_upright",
+      "page_type": "mcq",
+      "title_ar": "هندسة الدائرة",
+      "question_numbers_scanned": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "answer_key": null,
       "questions": [
         {
           "number": 1,
-          "text_ar": "المقطع المستقيم المرسوم من مركز الدائرة إلى نقطة على الدائرة يسمى ...",
+          "text_ar": "المستقيم المماس يكون عمودياً على نصف القطر المرسوم من نقطة التماس.",
           "options": {
-            "A": "الوتر",
-            "B": "القطر",
-            "C": "المماس",
-            "D": "نصف القطر"
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
           },
           "correct": null,
           "has_diagram": true,
-          "diagram_region_id": 12,
-          "diagram_bbox": null,
-          "notes": "",
-          "diagram_path": "images/question_1_diagram.png",
-          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_1_diagram.png"
+          "diagram_bbox": [
+            370,
+            70,
+            520,
+            170
+          ],
+          "notes": "يوجد رسم توضيحي لنقطة التماس ونصف القطر."
         },
         {
           "number": 2,
-          "text_ar": "الزاوية الناتجة من تقاطع مماسين من نقطة خارج الدائرة تساوي ...",
+          "text_ar": "المقاطع المماسات المرسومان من نقطة خارج دائرة متطابقان.",
           "options": {
-            "A": "$\\frac{1}{2}(x-y)$",
-            "B": "$x-y$",
-            "C": "$x+y$",
-            "D": "$2x$"
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
           },
           "correct": null,
-          "has_diagram": false,
-          "diagram_region_id": null,
-          "diagram_bbox": null,
-          "notes": ""
+          "has_diagram": true,
+          "diagram_bbox": [
+            60,
+            60,
+            320,
+            170
+          ],
+          "notes": "يوجد رسم توضيحي لمماسين من نقطة خارج الدائرة."
         },
         {
           "number": 3,
-          "text_ar": "الزاوية الناتجة من تقاطع وترين داخل الدائرة تساوي ...",
+          "text_ar": "الزاوية المماسية الزاوية المحيطية تساوي نصف قياس القوس المقابل\nm∠1 = \\frac{1}{2}x",
           "options": {
-            "A": "$\\frac{1}{2}(x+y)$",
-            "B": "$x+y$",
-            "C": "$x-y$",
-            "D": "$2x$"
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
           },
           "correct": null,
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 4,
-          "text_ar": "الزاوية الناتجة من تقاطع قاطع مع قاطع أو قاطع مع مماس خارج الدائرة تساوي ...",
+          "text_ar": "الزاوية الناتجة من تقاطع وترين داخل الدائرة\nm∠1 = \\frac{1}{2}(x + y)",
           "options": {
-            "A": "$\\frac{1}{2}(x-y)$",
-            "B": "$x-y$",
-            "C": "$x+y$",
-            "D": "$2x$"
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
           },
           "correct": null,
-          "has_diagram": false,
-          "diagram_region_id": null,
-          "diagram_bbox": null,
-          "notes": ""
+          "has_diagram": true,
+          "diagram_bbox": [
+            370,
+            220,
+            520,
+            320
+          ],
+          "notes": "يوجد رسم توضيحي لوترين متقاطعين داخل دائرة."
         },
         {
           "number": 5,
-          "text_ar": "إذا كان $JK^2 = IK \times KM$ فإن النقطة $K$ تقع على ...",
+          "text_ar": "الزاوية الناتجة من تقاطع وترين خارج دائرة أو مماسين أو وتر ومماس\nm∠1 = \\frac{1}{2}(x - y)",
           "options": {
-            "A": "الوتر",
-            "B": "المماس",
-            "C": "الدائرة",
-            "D": "القطر"
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
           },
           "correct": null,
           "has_diagram": true,
-          "diagram_region_id": 6,
-          "diagram_bbox": null,
-          "notes": "",
-          "diagram_path": "images/question_5_diagram.png",
-          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_5_diagram.png"
+          "diagram_bbox": [
+            60,
+            220,
+            320,
+            320
+          ],
+          "notes": "يوجد رسم توضيحي لوترين متقاطعين خارج دائرة."
         },
         {
           "number": 6,
-          "text_ar": "إذا كان $AB \times AC = AD \times AE$ فإن النقاط $A, B, C, D, E$ تقع على ...",
+          "text_ar": "JK^2 = JL × JM",
           "options": {
-            "A": "مستقيم واحد",
-            "B": "دائرة واحدة",
-            "C": "مستوي واحد",
-            "D": "مماس واحد"
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
           },
           "correct": null,
           "has_diagram": true,
-          "diagram_region_id": 8,
-          "diagram_bbox": null,
-          "notes": "",
-          "diagram_path": "images/question_6_diagram.png",
-          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_6_diagram.png"
+          "diagram_bbox": [
+            60,
+            340,
+            320,
+            420
+          ],
+          "notes": "يوجد رسم توضيحي لأوتار في دائرة."
+        },
+        {
+          "number": 7,
+          "text_ar": "AB × AC = AD × AE",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": true,
+          "diagram_bbox": [
+            370,
+            340,
+            520,
+            420
+          ],
+          "notes": "يوجد رسم توضيحي لأوتار متقاطعة."
+        },
+        {
+          "number": 8,
+          "text_ar": "AB × BC = EB × BD",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": true,
+          "diagram_bbox": [
+            570,
+            340,
+            720,
+            420
+          ],
+          "notes": "يوجد رسم توضيحي لأوتار متقاطعة."
         }
-      ]
+      ],
+      "quality_notes": "الصفحة تحتوي على ملخصات وقوانين مع رسومات توضيحية، لا توجد اختيارات أو مفتاح إجابة، وتم استخراج كل بند كعنصر سؤال منفصل.",
+      "content_blocks": []
     },
     {
       "page_key": "WhatsApp_Image_2026-01-11_at_3.08.40_PM_5",
       "source_image": "WhatsApp Image 2026-01-11 at 3.08.40 PM 5.jpeg",
       "page_number": 79,
-      "questions": []
+      "selected_candidate": "targeted_upright",
+      "page_type": "mcq",
+      "title_ar": "الأعداد المركبة ونظرية ديموافر",
+      "question_numbers_scanned": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "answer_key": null,
+      "questions": [
+        {
+          "number": 1,
+          "text_ar": "تذكر: \ni = \\sqrt{-1} \n i^1 = i, \\; i^2 = -1 \n i^3 = -i, \\; i^4 = 1",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "بطاقة تعريفية عن الوحدة التخيلية i"
+        },
+        {
+          "number": 2,
+          "text_ar": "الصورة الجبرية: \n العدد المركب z = a + bi \n القيمة المطلقة للعدد المركب |z| = r = \\sqrt{a^2 + b^2} \n سعة العدد المركب \\theta = \\tan^{-1} \\frac{b}{a}, \\; a > 0 \n \\theta = \\tan^{-1} \\frac{b}{a} + 180, \\; a < 0",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "تعريف الصورة الجبرية للعدد المركب"
+        },
+        {
+          "number": 3,
+          "text_ar": "الصورة القطبية: \n z = r(\\cos\\theta + i \\sin\\theta) \n a = r \\cos\\theta \n b = r \\sin\\theta",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "تعريف الصورة القطبية للعدد المركب"
+        },
+        {
+          "number": 4,
+          "text_ar": "نظرية ديموافر (ضرب وقسمة وقوة الأعداد المركبة من الصورة القطبية): \n z_1 = r_1(\\cos\\theta_1 + i \\sin\\theta_1), \\; z_2 = r_2(\\cos\\theta_2 + i \\sin\\theta_2) \n z_1 z_2 = r_1 r_2 [\\cos(\\theta_1 + \\theta_2) + i \\sin(\\theta_1 + \\theta_2)] \n \\frac{z_1}{z_2} = \\frac{r_1}{r_2} [\\cos(\\theta_1 - \\theta_2) + i \\sin(\\theta_1 - \\theta_2)] \n (z_1)^n = (r_1)^n [\\cos(n\\theta_1) + i \\sin(n\\theta_1)]",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "نظرية ديموافر للضرب والقسمة والأس"
+        },
+        {
+          "number": 5,
+          "text_ar": "نظرية ديموافر (الجذور النونية للعدد المركب n > 2): \n (z_1)^{\\frac{1}{n}} = (r_1)^{\\frac{1}{n}} \\left( \\cos\\left(\\frac{\\theta + 2k\\pi}{n}\\right) + i \\sin\\left(\\frac{\\theta + 2k\\pi}{n}\\right) \\right) \n k = 0, 1, 2, 3, ..., n-1",
+          "options": {
+            "A": "",
+            "B": "",
+            "C": "",
+            "D": ""
+          },
+          "correct": null,
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "نظرية ديموافر للجذور النونية"
+        }
+      ],
+      "quality_notes": "الصفحة تحتوي على بطاقات تعريفية ونظريات بدون أسئلة اختيار من متعدد أو خيارات إجابة واضحة. لا يوجد مفتاح إجابة ظاهر.",
+      "content_blocks": []
     },
     {
       "page_key": "WhatsApp_Image_2026-01-11_at_3.08.40_PM_6",
       "source_image": "WhatsApp Image 2026-01-11 at 3.08.40 PM 6.jpeg",
       "page_number": 80,
+      "selected_candidate": "rot270ccw",
+      "page_type": "mcq",
+      "title_ar": "الرياضيات العلمي",
+      "question_numbers_scanned": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "answer_key": {
+        "1": "D",
+        "2": "C",
+        "3": "B",
+        "4": "A",
+        "5": "D",
+        "6": "C",
+        "7": "A",
+        "8": "B",
+        "9": "A",
+        "10": "C"
+      },
       "questions": [
         {
           "number": 1,
-          "text_ar": "ناتج $1 + 1i$ هو:",
+          "text_ar": "الصورة الديكارتية للعدد المركب \\[2 \\cos \\frac{\\pi}{4} + i \\sin \\frac{\\pi}{4}\\] هي:",
           "options": {
-            "A": "1",
-            "B": "1 + 1i",
-            "C": "1i",
-            "D": "0"
+            "A": "4i",
+            "B": "-4i",
+            "C": "4",
+            "D": "4"
           },
-          "correct": "B",
+          "correct": "D",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 2,
-          "text_ar": "ناتج $8 + 4i \\, (0$ هو:",
+          "text_ar": "إذا كان \\(z = 7 \\cos \\frac{\\pi}{3} + i \\sin \\frac{\\pi}{3}\\) فإن سعة العدد المركب هي:",
           "options": {
-            "A": "4 + 4i",
-            "B": "8 + 4i",
-            "C": "8i",
-            "D": "16"
+            "A": "60",
+            "B": "30",
+            "C": "90",
+            "D": "120"
           },
-          "correct": "B",
+          "correct": "C",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 3,
-          "text_ar": "ناتج $15 + 15i \\, (0$ هو:",
+          "text_ar": "قيمة المقدار \\(6(1 + \\sqrt{3}i)\\) هو:",
           "options": {
-            "A": "15i",
-            "B": "15",
-            "C": "1",
-            "D": "0"
+            "A": "27",
+            "B": "64",
+            "C": "64\\sqrt{3}",
+            "D": "27\\sqrt{3}"
           },
-          "correct": "D",
+          "correct": "B",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 4,
-          "text_ar": "الصيغة الجبرية لعدد مركب هو:",
+          "text_ar": "الصورة الديكارتية للعدد المركب \\(z = 5 + 5\\sqrt{3}i\\) هي:",
           "options": {
-            "A": "$a + bi$",
-            "B": "$a - bi$",
-            "C": "$a + b$",
-            "D": "$a - b$"
+            "A": "z = 5 + 5\\sqrt{3}i",
+            "B": "z = 3 - \\sqrt{5}i",
+            "C": "z = 3 + \\sqrt{5}i",
+            "D": "z = 5 - 5\\sqrt{3}i"
           },
           "correct": "A",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 5,
-          "text_ar": "ناتج ضرب العددين المركبين $-32$ و $40$ هو:",
+          "text_ar": "100 \\(\\cos \\frac{\\pi}{3} + i \\sin \\frac{\\pi}{3}\\) / 10 \\(\\cos \\frac{2\\pi}{3} + i \\sin \\frac{2\\pi}{3}\\) = ؟",
           "options": {
-            "A": "-32",
-            "B": "40",
-            "C": "4 - 36i",
-            "D": "4 + 36i"
+            "A": "40",
+            "B": "41",
+            "C": "\\sqrt{14}",
+            "D": "4"
           },
-          "correct": "A",
+          "correct": "D",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 6,
-          "text_ar": "ناتج ضرب العددين المركبين $5(\\cos 40^\\circ + i \\sin 40^\\circ)$ و $3(\\cos 50^\\circ + i \\sin 50^\\circ)$ هو:",
+          "text_ar": "سعة العدد المركب \\(z = 3 - \\sqrt{5}i\\) هي:",
           "options": {
-            "A": "$i(2 + 6i)(2 - 6i)$",
-            "B": "$i$",
-            "C": "$i(2 + 6i)(2 + 6i)$",
-            "D": "$-i$"
+            "A": "\\sqrt{34}",
+            "B": "\\sqrt{15}",
+            "C": "\\sqrt{14}",
+            "D": "\\sqrt{41}"
           },
           "correct": "C",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 7,
-          "text_ar": "إذا كان $z = 3 - \\sqrt{5}$ فإن $z = 3 - \\sqrt{5}$ هو:",
+          "text_ar": "ما قيمة: 225°",
           "options": {
-            "A": "$\\sqrt{15}$",
-            "B": "$\\sqrt{14}$",
-            "C": "$64\\sqrt{3}$",
-            "D": "$64$"
+            "A": "45",
+            "B": "135",
+            "C": "180",
+            "D": "225"
           },
-          "correct": "C",
+          "correct": "A",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 8,
-          "text_ar": "إذا كان $z = 5 + 5\\sqrt{3}$ فإن $z = 5 + 5\\sqrt{3}$ هو:",
+          "text_ar": "نتائج ضرب العددين المركبين \\(i(2 + 6i)(2 - 6i)\\) هو؟",
           "options": {
-            "A": "27",
-            "B": "30",
-            "C": "41",
-            "D": "60"
+            "A": "-32",
+            "B": "40",
+            "C": "4 - 6i",
+            "D": "4 + 36i"
           },
-          "correct": "A",
+          "correct": "B",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 9,
-          "text_ar": "إذا كان $z = 7\\cos \\frac{\\pi}{3} + i\\sin \\frac{\\pi}{3}$ فإن $|z|$ يساوي:",
+          "text_ar": "نتائج ضرب العددين المركبين \\(5[\\cos 40° + i \\sin 40°](3[\\cos 50° + i \\sin 50°])\\)",
           "options": {
-            "A": "7",
-            "B": "4",
-            "C": "41",
-            "D": "90"
+            "A": "1",
+            "B": "i",
+            "C": "-i",
+            "D": "غير واضح في الصورة"
           },
           "correct": "A",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         },
         {
           "number": 10,
-          "text_ar": "إذا كان $z = 100\\cos \\frac{\\pi}{3} + i\\sin \\frac{\\pi}{8}$ و $z = 10\\cos \\frac{\\pi}{3} + i\\sin \\frac{\\pi}{10}$ فإن $|z|$ يساوي:",
+          "text_ar": "الصورة الديكارتية لـ \\((1 + i)^8\\) هو؟",
           "options": {
-            "A": "225^\u000b0",
-            "B": "180^\u000b0",
-            "C": "120^\u000b0",
-            "D": "90^\u000b0"
+            "A": "16i",
+            "B": "1 + i",
+            "C": "16",
+            "D": "4 + 4i"
           },
           "correct": "C",
           "has_diagram": false,
-          "diagram_region_id": null,
           "diagram_bbox": null,
           "notes": ""
         }
       ],
-      "answer_key": {
-        "1": "B",
-        "2": "B",
-        "3": "D",
-        "4": "A",
-        "5": "A",
-        "6": "C",
-        "7": "C",
-        "8": "A",
-        "9": "A",
-        "10": "C"
-      }
+      "quality_notes": "تم استخراج جميع الأسئلة بوضوح مع جدول الإجابات. لا توجد رسوم بيانية.",
+      "content_blocks": []
     }
   ]
 }

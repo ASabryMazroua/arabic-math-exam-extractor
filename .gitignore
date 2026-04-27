@@ -2,6 +2,12 @@
 .env
 .env.local
 
+# private/local extraction tooling (not public)
+_private_pipeline/
+_quality_*.jpg
+_quality_*.json
+_qa_*.json
+
 # python
 .venv/
 __pycache__/

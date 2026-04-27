@@ -1,4 +1,93 @@
 {
   "page_number": 29,
-  "questions": []
+  "selected_candidate": "targeted_upright",
+  "page_type": "mcq",
+  "title_ar": "الأعداد المركبة",
+  "question_numbers_scanned": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer_key": null,
+  "questions": [
+    {
+      "number": 1,
+      "text_ar": "لها صفر واحد حقيقي",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": true,
+      "diagram_bbox": [
+        35,
+        670,
+        170,
+        800
+      ],
+      "notes": "رسم بياني لدالة تقطع المحور x في نقطة واحدة"
+    },
+    {
+      "number": 2,
+      "text_ar": "لها 3 أصفار حقيقية",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": true,
+      "diagram_bbox": [
+        200,
+        670,
+        340,
+        800
+      ],
+      "notes": "رسم بياني لدالة تقطع المحور x في ثلاث نقاط"
+    },
+    {
+      "number": 3,
+      "text_ar": "لها 4 أصفار حقيقية",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": true,
+      "diagram_bbox": [
+        370,
+        670,
+        510,
+        800
+      ],
+      "notes": "رسم بياني لدالة تقطع المحور x في أربع نقاط"
+    },
+    {
+      "number": 4,
+      "text_ar": "ليس لها أصفار حقيقية",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": true,
+      "diagram_bbox": [
+        540,
+        670,
+        680,
+        800
+      ],
+      "notes": "رسم بياني لدالة لا تقطع المحور x"
+    }
+  ],
+  "quality_notes": "الصفحة تحتوي على أمثلة وشروحات نظرية بالإضافة إلى أربعة رسومات بيانية كل منها يمثل سؤالاً حول عدد الأصفار الحقيقية للدوال. لا توجد خيارات أو مفتاح إجابة ظاهر.",
+  "content_blocks": []
 }

@@ -1,4 +1,88 @@
 {
   "page_number": 79,
-  "questions": []
+  "selected_candidate": "targeted_upright",
+  "page_type": "mcq",
+  "title_ar": "الأعداد المركبة ونظرية ديموافر",
+  "question_numbers_scanned": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "answer_key": null,
+  "questions": [
+    {
+      "number": 1,
+      "text_ar": "تذكر: \ni = \\sqrt{-1} \n i^1 = i, \\; i^2 = -1 \n i^3 = -i, \\; i^4 = 1",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "بطاقة تعريفية عن الوحدة التخيلية i"
+    },
+    {
+      "number": 2,
+      "text_ar": "الصورة الجبرية: \n العدد المركب z = a + bi \n القيمة المطلقة للعدد المركب |z| = r = \\sqrt{a^2 + b^2} \n سعة العدد المركب \\theta = \\tan^{-1} \\frac{b}{a}, \\; a > 0 \n \\theta = \\tan^{-1} \\frac{b}{a} + 180, \\; a < 0",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "تعريف الصورة الجبرية للعدد المركب"
+    },
+    {
+      "number": 3,
+      "text_ar": "الصورة القطبية: \n z = r(\\cos\\theta + i \\sin\\theta) \n a = r \\cos\\theta \n b = r \\sin\\theta",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "تعريف الصورة القطبية للعدد المركب"
+    },
+    {
+      "number": 4,
+      "text_ar": "نظرية ديموافر (ضرب وقسمة وقوة الأعداد المركبة من الصورة القطبية): \n z_1 = r_1(\\cos\\theta_1 + i \\sin\\theta_1), \\; z_2 = r_2(\\cos\\theta_2 + i \\sin\\theta_2) \n z_1 z_2 = r_1 r_2 [\\cos(\\theta_1 + \\theta_2) + i \\sin(\\theta_1 + \\theta_2)] \n \\frac{z_1}{z_2} = \\frac{r_1}{r_2} [\\cos(\\theta_1 - \\theta_2) + i \\sin(\\theta_1 - \\theta_2)] \n (z_1)^n = (r_1)^n [\\cos(n\\theta_1) + i \\sin(n\\theta_1)]",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "نظرية ديموافر للضرب والقسمة والأس"
+    },
+    {
+      "number": 5,
+      "text_ar": "نظرية ديموافر (الجذور النونية للعدد المركب n > 2): \n (z_1)^{\\frac{1}{n}} = (r_1)^{\\frac{1}{n}} \\left( \\cos\\left(\\frac{\\theta + 2k\\pi}{n}\\right) + i \\sin\\left(\\frac{\\theta + 2k\\pi}{n}\\right) \\right) \n k = 0, 1, 2, 3, ..., n-1",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "نظرية ديموافر للجذور النونية"
+    }
+  ],
+  "quality_notes": "الصفحة تحتوي على بطاقات تعريفية ونظريات بدون أسئلة اختيار من متعدد أو خيارات إجابة واضحة. لا يوجد مفتاح إجابة ظاهر.",
+  "content_blocks": []
 }

@@ -1,9 +1,34 @@
 {
   "page_number": 30,
+  "selected_candidate": "rot0",
+  "page_type": "mcq",
+  "title_ar": "الرياضيات - التصفي العلمي",
+  "question_numbers_scanned": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "answer_key": {
+    "1": "B",
+    "2": "B",
+    "3": "D",
+    "4": "C",
+    "5": "A",
+    "6": "C",
+    "7": "B",
+    "8": "C",
+    "9": "B"
+  },
   "questions": [
     {
       "number": 1,
-      "text_ar": "أي الدوال التالية لها ثلاث أصفار حقيقية",
+      "text_ar": "أي الدوال التالية لها ثلاث أصفار حقيقية؟",
       "options": {
         "A": "",
         "B": "",
@@ -12,64 +37,61 @@
       },
       "correct": "B",
       "has_diagram": true,
-      "diagram_region_id": null,
       "diagram_bbox": [
-        0.02,
-        0.13,
-        0.98,
-        0.32
+        0.08,
+        0.08,
+        0.92,
+        0.19
       ],
-      "notes": "",
-      "diagram_path": "WhatsApp_Image_2026-01-11_at_3.08.37_PM/q1_diagram.png"
+      "notes": "كل الخيارات رسومات بيانية.",
+      "diagram_path": "images/question_1_diagram.png",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_1_diagram.png"
     },
     {
       "number": 2,
-      "text_ar": "ناتج ضرب العددين المركبين $2 + 6i$ و $2 - 6i$ هو",
+      "text_ar": "ناتج ضرب العددين المركبين (2 + 6i)(2 - 6i) هو",
       "options": {
-        "A": "-32",
+        "A": "32-36i",
         "B": "40",
-        "C": "4 - 36i",
-        "D": "4 + 36i"
+        "C": "4-36i",
+        "D": "4+36i"
       },
       "correct": "B",
       "has_diagram": false,
-      "diagram_region_id": null,
       "diagram_bbox": null,
       "notes": ""
     },
     {
       "number": 3,
-      "text_ar": "ما قيمة $\\frac{26i}{3-2i}$ ؟",
+      "text_ar": "قيمة 3(3+6i)^2 تساوي",
       "options": {
-        "A": "36 - 27i",
-        "B": "3 + 6i",
-        "C": "-4 - 6i",
-        "D": "-4 + 6i"
+        "A": "36-27i",
+        "B": "9+36i",
+        "C": "9-36i",
+        "D": "-27+36i"
       },
       "correct": "D",
       "has_diagram": false,
-      "diagram_region_id": null,
       "diagram_bbox": null,
       "notes": ""
     },
     {
       "number": 4,
-      "text_ar": "قيمة $i^{25}$ تساوي",
+      "text_ar": "5i(7i) =",
       "options": {
-        "A": "i",
-        "B": "-1",
-        "C": "1",
-        "D": "-i"
+        "A": "70",
+        "B": "-70",
+        "C": "-35",
+        "D": "35"
       },
       "correct": "C",
       "has_diagram": false,
-      "diagram_region_id": null,
       "diagram_bbox": null,
       "notes": ""
     },
     {
       "number": 5,
-      "text_ar": "قيمة $i^{12}$ تساوي",
+      "text_ar": "حيث i = \\sqrt{-1} فإن i^{12} تساوي",
       "options": {
         "A": "1",
         "B": "-1",
@@ -78,58 +100,54 @@
       },
       "correct": "A",
       "has_diagram": false,
-      "diagram_region_id": null,
       "diagram_bbox": null,
       "notes": ""
     },
     {
       "number": 6,
-      "text_ar": "9 - 36i (C    27 + 36i (D    9 + 36i (B    36 - 27i (A",
+      "text_ar": "قيمة \\frac{2}{i} تساوي",
       "options": {
-        "A": "36 - 27i",
-        "B": "9 + 36i",
-        "C": "9 - 36i",
-        "D": "27 + 36i"
+        "A": "i",
+        "B": "-i",
+        "C": "-2i",
+        "D": "2i"
       },
-      "correct": "D",
+      "correct": "C",
       "has_diagram": false,
-      "diagram_region_id": null,
       "diagram_bbox": null,
       "notes": ""
     },
     {
       "number": 7,
-      "text_ar": "حيث $i = \\sqrt{-1}$ فإن $5i(7i) = ...$",
+      "text_ar": "4 + 36i =",
       "options": {
-        "A": "70",
-        "B": "-70",
-        "C": "35",
-        "D": "-35"
+        "A": "-4+36i",
+        "B": "-4-36i",
+        "C": "4-36i",
+        "D": "4+36i"
       },
-      "correct": "C",
+      "correct": "B",
       "has_diagram": false,
-      "diagram_region_id": null,
       "diagram_bbox": null,
       "notes": ""
     },
     {
       "number": 8,
-      "text_ar": "مجموعة حل المعادلة $x^4 - 16 = 0$ هي",
+      "text_ar": "مجموعة حل المعادلة 16 = x^4 هي",
       "options": {
-        "A": "\\{4, -4\\}",
-        "B": "\\{4\\}",
-        "C": "\\{2, -2, 2i, -2i\\}",
-        "D": "\\{2, -2\\}"
+        "A": "{4, -4}",
+        "B": "{4}",
+        "C": "{2, -2, 2i, -2i}",
+        "D": "{2, -2}"
       },
       "correct": "C",
       "has_diagram": false,
-      "diagram_region_id": null,
       "diagram_bbox": null,
       "notes": ""
     },
     {
       "number": 9,
-      "text_ar": "كم صفرا حقيقيا للدالة الممثلة المقابلة",
+      "text_ar": "كم صفراً حقيقياً للدالة الممثلة في المقابلة",
       "options": {
         "A": "1",
         "B": "2",
@@ -138,26 +156,17 @@
       },
       "correct": "B",
       "has_diagram": true,
-      "diagram_region_id": null,
       "diagram_bbox": [
-        0.13,
-        0.53,
-        0.54,
-        0.87
+        0.08,
+        0.62,
+        0.55,
+        0.92
       ],
-      "notes": "",
-      "diagram_path": "WhatsApp_Image_2026-01-11_at_3.08.37_PM/q9_diagram.png"
+      "notes": "الخيار يحتوي على رسم بياني واحد.",
+      "diagram_path": "images/question_9_diagram.png",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_9_diagram.png"
     }
   ],
-  "answer_key": {
-    "1": "B",
-    "2": "B",
-    "3": "D",
-    "4": "C",
-    "5": "A",
-    "6": "D",
-    "7": "C",
-    "8": "C",
-    "9": "B"
-  }
+  "quality_notes": "تم استخراج جميع الأسئلة والخيارات بشكل واضح، مع وجود مفتاح الإجابة. تم الحفاظ على ترتيب الأسئلة والخيارات. تم تحديد الرسومات البيانية بدقة.",
+  "content_blocks": []
 }

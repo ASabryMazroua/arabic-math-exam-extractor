@@ -1,4 +1,349 @@
 {
   "page_number": 53,
-  "questions": []
+  "orientation_degrees_clockwise_to_upright": 90,
+  "page_type": "mcq",
+  "title_ar": "حساب المثلثات",
+  "questions": [
+    {
+      "number": 1,
+      "text_ar": "عند تبسيط العبارات المثلثية نستخدم ثلاث علاقات هامة لبدائل الدوال المثلثية",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "section"
+    },
+    {
+      "number": 2,
+      "text_ar": "\\sin^2 \\theta + \\cos^2 \\theta = 1",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "identity"
+    },
+    {
+      "number": 3,
+      "text_ar": "\\tan^2 \\theta + 1 = \\sec^2 \\theta",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "identity"
+    },
+    {
+      "number": 4,
+      "text_ar": "1 + \\cot^2 \\theta = \\csc^2 \\theta",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "identity"
+    },
+    {
+      "number": 5,
+      "text_ar": "\\sin \\theta = \\frac{1}{\\csc \\theta}",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "identity"
+    },
+    {
+      "number": 6,
+      "text_ar": "\\cos \\theta = \\frac{1}{\\sec \\theta}",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "identity"
+    },
+    {
+      "number": 7,
+      "text_ar": "\\tan \\theta = \\frac{1}{\\cot \\theta}",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "identity"
+    },
+    {
+      "number": 8,
+      "text_ar": "\\csc \\theta = \\frac{1}{\\sin \\theta}",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "identity"
+    },
+    {
+      "number": 9,
+      "text_ar": "\\sec \\theta = \\frac{1}{\\cos \\theta}",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "identity"
+    },
+    {
+      "number": 10,
+      "text_ar": "\\cot \\theta = \\frac{1}{\\tan \\theta}",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "identity"
+    },
+    {
+      "number": 11,
+      "text_ar": "استنتاجات الدوال المثلثية",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "rule"
+    },
+    {
+      "number": 12,
+      "text_ar": "\\sin(-\\theta) = -\\sin(\\theta)",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "identity"
+    },
+    {
+      "number": 13,
+      "text_ar": "\\cos(-\\theta) = \\cos(\\theta)",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "identity"
+    },
+    {
+      "number": 14,
+      "text_ar": "\\tan(-\\theta) = -\\tan(\\theta)",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "identity"
+    },
+    {
+      "number": 15,
+      "text_ar": "حل المعادلات المثلثية ومراجعة جيب الحل",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "rule"
+    },
+    {
+      "number": 16,
+      "text_ar": "الدوال العكسية كجدول الدوال الدائرية\ny = \\sin^{-1} x\nالمجال = [-1, 1]\nالمدى = \\left[ -\\frac{\\pi}{2}, \\frac{\\pi}{2} \\right]",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "definition"
+    },
+    {
+      "number": 17,
+      "text_ar": "الدوال العكسية كجدول الدوال الدائرية\ny = \\cos^{-1} x\nالمجال = [-1, 1]\nالمدى = [0, \\pi]",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "definition"
+    },
+    {
+      "number": 18,
+      "text_ar": "الدوال العكسية كجدول الدوال الدائرية\ny = \\tan^{-1} x\nالمجال = ( -\\infty, \\infty )\nالمدى = \\left( -\\frac{\\pi}{2}, \\frac{\\pi}{2} \\right)",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "definition"
+    },
+    {
+      "number": 19,
+      "text_ar": "الدوال العكسية كجدول الدوال الدائرية\ny = \\arcsin(b\\theta)\nطول الدورة = \\frac{360}{|b|}\nالمدى = [-1, 1]",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": true,
+      "diagram_bbox": [
+        0.13,
+        0.38,
+        0.38,
+        0.57
+      ],
+      "notes": "definition",
+      "diagram_path": "images/block_def4_diagram.png",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_19_diagram.png"
+    },
+    {
+      "number": 20,
+      "text_ar": "الدوال العكسية كجدول الدوال الدائرية\ny = \\arccos(b\\theta)\nطول الدورة = \\frac{360}{|b|}\nالمدى = [-1, 1]",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": true,
+      "diagram_bbox": [
+        0.41,
+        0.38,
+        0.66,
+        0.57
+      ],
+      "notes": "definition",
+      "diagram_path": "images/block_def5_diagram.png",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_20_diagram.png"
+    },
+    {
+      "number": 21,
+      "text_ar": "الدوال العكسية كجدول الدوال الدائرية\ny = \\arctan(b\\theta)\nطول الدورة = \\frac{180}{|b|}\nالمدى = ( -\\infty, \\infty )",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": true,
+      "diagram_bbox": [
+        0.69,
+        0.38,
+        0.93,
+        0.57
+      ],
+      "notes": "definition",
+      "diagram_path": "images/block_def6_diagram.png",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_21_diagram.png"
+    }
+  ],
+  "content_blocks": [],
+  "answer_key": null,
+  "quality_notes": "تم استخراج جميع القوانين والعلاقات والرسوم البيانية بوضوح. تم تقدير مربعات الرسوم البيانية بناءً على مواقعها النسبية في الصورة.",
+  "question_numbers_scanned": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ]
 }

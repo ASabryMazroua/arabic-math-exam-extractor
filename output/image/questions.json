@@ -1,174 +1,216 @@
 {
   "page_number": 8,
+  "selected_candidate": "rot0",
+  "page_type": "mcq",
+  "title_ar": "رياضيات - 400 سؤال",
+  "question_numbers_scanned": [
+    1,
+    7,
+    11,
+    16,
+    17,
+    18,
+    26,
+    27,
+    46,
+    50
+  ],
+  "answer_key": {
+    "1": "A",
+    "7": "D",
+    "11": "C",
+    "16": "B",
+    "17": "C",
+    "18": "A",
+    "26": "B",
+    "27": "A",
+    "46": "C",
+    "50": "C"
+  },
   "questions": [
     {
       "number": 1,
-      "text_ar": "إذا كان $\\triangle ABC \\sim \\triangle EFG$ فإن ..",
+      "text_ar": "إذا كان \\( \\triangle ABC \\sim \\triangle EFG \\) فإن ...",
       "options": {
-        "A": "$\\angle B \\equiv \\angle C$",
-        "B": "$\\angle A \\equiv \\angle G$",
-        "C": "$\\overline{AC} \\equiv \\overline{EF}$",
-        "D": "$\\angle A \\equiv \\angle E$"
+        "A": "\\( \\angle A \\equiv \\angle E \\)",
+        "B": "\\( \\angle A \\equiv \\angle G \\)",
+        "C": "\\( AC \\equiv EF \\)",
+        "D": "\\( AB \\equiv EF \\)"
       },
-      "correct": "D",
+      "correct": "A",
       "has_diagram": false,
-      "diagram_region_id": null,
       "diagram_bbox": null,
       "notes": ""
     },
     {
       "number": 7,
-      "text_ar": "مثلثان متشابهان، أضلاع المثلث الأكبر $9, 15, 18$ نسبة التشابه بينهم $\\frac{2}{3}$، فما محيط المثلث الأصغر؟",
+      "text_ar": "مثلثان متشابهان، أطوال أضلاع المثلث الأكبر 9, 15, 18 ونسبة التشابه 2 : 3، فما محيط المثلث الأصغر؟",
       "options": {
-        "A": "12",
-        "B": "24",
-        "C": "28",
-        "D": "14"
+        "A": "26",
+        "B": "14",
+        "C": "24",
+        "D": "28"
       },
-      "correct": "C",
+      "correct": "D",
       "has_diagram": false,
-      "diagram_region_id": null,
       "diagram_bbox": null,
       "notes": ""
     },
     {
       "number": 11,
-      "text_ar": "ما صورة النقطة $B(2,3)$ الناتجة من الإزاحة $(x, y) \\rightarrow (x + 4, y - 5)$؟",
+      "text_ar": "ما صورة النقطة B(2,3) الناتجة من الإزاحة (x, y) → (x + 4, y – 5)؟",
       "options": {
-        "A": "$(6,0)$",
-        "B": "$(4,5)$",
-        "C": "$(6,-2)$",
-        "D": "$(-2,6)$"
+        "A": "(4, -5)",
+        "B": "(6, 0)",
+        "C": "(6, -2)",
+        "D": "(-2, 6)"
       },
       "correct": "C",
       "has_diagram": false,
-      "diagram_region_id": null,
       "diagram_bbox": null,
-      "notes": "تكرر 2023"
+      "notes": ""
     },
     {
       "number": 16,
-      "text_ar": "ما محيط المثلث $ABC$؟",
+      "text_ar": "ما محيط المثلث ABC؟",
       "options": {
-        "A": "24",
+        "A": "36",
         "B": "30",
         "C": "32",
-        "D": "36"
+        "D": "24"
       },
       "correct": "B",
       "has_diagram": true,
-      "diagram_region_id": 7,
-      "diagram_bbox": null,
+      "diagram_bbox": [
+        0.05,
+        0.6,
+        0.35,
+        0.75
+      ],
       "notes": "",
-      "diagram_path": "images/q16_diagram.png"
+      "diagram_path": "images/question_16_diagram.png",
+      "deliverable_image": "image_question_16_diagram.png"
     },
     {
       "number": 17,
-      "text_ar": "كم عدد أضلاع المضلع المنتظم الذي قياس زاويته الداخلية $135^\\circ$؟",
+      "text_ar": "كم عدد أضلاع المضلع المنتظم الذي قياس زاويته الداخلية 135°؟",
       "options": {
-        "A": "4",
-        "B": "8",
-        "C": "5",
+        "A": "6",
+        "B": "5",
+        "C": "8",
         "D": "7"
       },
-      "correct": "B",
+      "correct": "C",
       "has_diagram": false,
-      "diagram_region_id": null,
       "diagram_bbox": null,
       "notes": ""
     },
     {
       "number": 18,
-      "text_ar": "سداسي منتظم صُنعَت منه شجرة مشابك بقص ستة مثلثات قائمة متساوية ومتطابقة، بحيث كانت أحرف السداسي أوزانًا في المثلثات المقطوعة، وكان $m\\angle XYZ = 45^\\circ$، أوجد $m\\angle XZR$.",
+      "text_ar": "خماسي منتظم انطلقت منه قائمة الزاوية ومماسية تتقاطعان في نقطة داخلية، إذا كان قياس الزاوية المحصورة بين المماس والقائمة 45°، فما قياس الزاوية \\( m\triangle XZR \\)؟",
       "options": {
-        "A": "30^\\circ",
-        "B": "45^\\circ",
-        "C": "60^\\circ",
-        "D": "50^\\circ"
+        "A": "30°",
+        "B": "45°",
+        "C": "60°",
+        "D": "50°"
       },
       "correct": "A",
       "has_diagram": true,
-      "diagram_region_id": 2,
-      "diagram_bbox": null,
+      "diagram_bbox": [
+        0.55,
+        0.18,
+        0.85,
+        0.38
+      ],
       "notes": "",
-      "diagram_path": "images/q18_diagram.png"
+      "diagram_path": "images/question_18_diagram.png",
+      "deliverable_image": "image_question_18_diagram.png"
     },
     {
       "number": 26,
-      "text_ar": "قيمة $x$ في الشكل تساوي..",
+      "text_ar": "قيمة x في الشكل تساوي:",
       "options": {
-        "A": "1",
+        "A": "4",
         "B": "6",
         "C": "8",
         "D": "المعطيات غير كافية"
       },
       "correct": "B",
       "has_diagram": true,
-      "diagram_region_id": 3,
-      "diagram_bbox": null,
+      "diagram_bbox": [
+        0.05,
+        0.38,
+        0.35,
+        0.55
+      ],
       "notes": "",
-      "diagram_path": "images/q26_diagram.png"
+      "diagram_path": "images/question_26_diagram.png",
+      "deliverable_image": "image_question_26_diagram.png"
     },
     {
       "number": 27,
-      "text_ar": "في الشكل المقابل: إذا كان $m\\angle 1 = m\\angle 2$ فما قيمة $x$؟",
+      "text_ar": "في الشكل المقابل، إذا كان \\( m1 = m2 \\) فما قيمة x؟",
       "options": {
         "A": "4",
-        "B": "3",
-        "C": "6",
-        "D": "5"
+        "B": "6",
+        "C": "5",
+        "D": "2"
       },
-      "correct": "B",
+      "correct": "A",
       "has_diagram": true,
-      "diagram_region_id": 5,
-      "diagram_bbox": null,
+      "diagram_bbox": [
+        0.05,
+        0.18,
+        0.35,
+        0.35
+      ],
       "notes": "",
-      "diagram_path": "images/q27_diagram.png"
+      "diagram_path": "images/question_27_diagram.png",
+      "deliverable_image": "image_question_27_diagram.png"
     },
     {
       "number": 46,
-      "text_ar": "في المعين $ABCD$ ما قيمة $x$؟",
+      "text_ar": "في المعين ABCD ما قيمة x؟",
       "options": {
-        "A": "30^\\circ",
-        "B": "20^\\circ",
-        "C": "120^\\circ",
-        "D": "60^\\circ"
+        "A": "30°",
+        "B": "60°",
+        "C": "120°",
+        "D": "90°"
       },
       "correct": "C",
       "has_diagram": true,
-      "diagram_region_id": 4,
-      "diagram_bbox": null,
+      "diagram_bbox": [
+        0.55,
+        0.38,
+        0.85,
+        0.55
+      ],
       "notes": "",
-      "diagram_path": "images/q46_diagram.png"
+      "diagram_path": "images/question_46_diagram.png",
+      "deliverable_image": "image_question_46_diagram.png"
     },
     {
       "number": 50,
-      "text_ar": "في المعين $ABCD$، إذا كان $AC = 10$ و $BD = 24$، فاوْجد طول ضلع المعين.",
+      "text_ar": "في المعين ABCD، إذا كان AC=10 و BD=24، فأوجد طول ضلع المعين.",
       "options": {
-        "A": "5",
-        "B": "8",
+        "A": "8",
+        "B": "15",
         "C": "13",
-        "D": "15"
+        "D": "5"
       },
       "correct": "C",
       "has_diagram": true,
-      "diagram_region_id": 1,
-      "diagram_bbox": null,
+      "diagram_bbox": [
+        0.55,
+        0.6,
+        0.85,
+        0.75
+      ],
       "notes": "",
-      "diagram_path": "images/q50_diagram.png"
+      "diagram_path": "images/question_50_diagram.png",
+      "deliverable_image": "image_question_50_diagram.png"
     }
   ],
-  "answer_key": {
-    "50": "C",
-    "17": "B",
-    "18": "A",
-    "26": "B",
-    "27": "B",
-    "46": "C",
-    "11": "C",
-    "16": "B",
-    "7": "C",
-    "1": "D",
-    "6": "B"
-  }
+  "quality_notes": "تم استخراج جميع الأسئلة بوضوح مع مطابقة الإجابات الصحيحة من جدول الإجابة المظلل. تم تحديد مربعات الرسوم التوضيحية بشكل تقريبي حسب أماكنها النسبية.",
+  "content_blocks": []
 }

@@ -1,36 +1,115 @@
 ﻿page,page_number,number,text_ar,option_a,option_b,option_c,option_d,correct,has_diagram,diagram_file,notes
-image,8,1,إذا كان $\triangle ABC \sim \triangle EFG$ فإن ..,$\angle B \equiv \angle C$,$\angle A \equiv \angle G$,$\overline{AC} \equiv \overline{EF}$,$\angle A \equiv \angle E$,D,False,,
-image,8,7,"مثلثان متشابهان، أضلاع المثلث الأكبر $9, 15, 18$ نسبة التشابه بينهم $\frac{2}{3}$، فما محيط المثلث الأصغر؟",12,24,28,14,C,False,,
-image,8,11,"ما صورة النقطة $B(2,3)$ الناتجة من الإزاحة $(x, y) \rightarrow (x + 4, y - 5)$؟","$(6,0)$","$(4,5)$","$(6,-2)$","$(-2,6)$",C,False,,تكرر 2023
-image,8,16,ما محيط المثلث $ABC$؟,24,30,32,36,B,True,image_question_16_diagram.png,
-image,8,17,كم عدد أضلاع المضلع المنتظم الذي قياس زاويته الداخلية $135^\circ$؟,4,8,5,7,B,False,,
-image,8,18,سداسي منتظم صُنعَت منه شجرة مشابك بقص ستة مثلثات قائمة متساوية ومتطابقة، بحيث كانت أحرف السداسي أوزانًا في المثلثات المقطوعة، وكان $m\angle XYZ = 45^\circ$، أوجد $m\angle XZR$.,30^\circ,45^\circ,60^\circ,50^\circ,A,True,image_question_18_diagram.png,
-image,8,26,قيمة $x$ في الشكل تساوي..,1,6,8,المعطيات غير كافية,B,True,image_question_26_diagram.png,
-image,8,27,في الشكل المقابل: إذا كان $m\angle 1 = m\angle 2$ فما قيمة $x$؟,4,3,6,5,B,True,image_question_27_diagram.png,
-image,8,46,في المعين $ABCD$ ما قيمة $x$؟,30^\circ,20^\circ,120^\circ,60^\circ,C,True,image_question_46_diagram.png,
-image,8,50,في المعين $ABCD$، إذا كان $AC = 10$ و $BD = 24$، فاوْجد طول ضلع المعين.,5,8,13,15,C,True,image_question_50_diagram.png,
-WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,1,أي الدوال التالية لها ثلاث أصفار حقيقية,,,,,B,True,WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_1_diagram.png,
-WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,2,ناتج ضرب العددين المركبين $2 + 6i$ و $2 - 6i$ هو,-32,40,4 - 36i,4 + 36i,B,False,,
-WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,3,ما قيمة $\frac{26i}{3-2i}$ ؟,36 - 27i,3 + 6i,-4 - 6i,-4 + 6i,D,False,,
-WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,4,قيمة $i^{25}$ تساوي,i,-1,1,-i,C,False,,
-WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,5,قيمة $i^{12}$ تساوي,1,-1,i,-i,A,False,,
-WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,6,9 - 36i (C    27 + 36i (D    9 + 36i (B    36 - 27i (A,36 - 27i,9 + 36i,9 - 36i,27 + 36i,D,False,,
-WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,7,حيث $i = \sqrt{-1}$ فإن $5i(7i) = ...$,70,-70,35,-35,C,False,,
-WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,8,مجموعة حل المعادلة $x^4 - 16 = 0$ هي,"\{4, -4\}",\{4\},"\{2, -2, 2i, -2i\}","\{2, -2\}",C,False,,
-WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,9,كم صفرا حقيقيا للدالة الممثلة المقابلة,1,2,3,4,B,True,WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_9_diagram.png,
-WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,1,المقطع المستقيم المرسوم من مركز الدائرة إلى نقطة على الدائرة يسمى ...,الوتر,القطر,المماس,نصف القطر,,True,WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_1_diagram.png,
-WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,2,الزاوية الناتجة من تقاطع مماسين من نقطة خارج الدائرة تساوي ...,$\frac{1}{2}(x-y)$,$x-y$,$x+y$,$2x$,,False,,
-WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,3,الزاوية الناتجة من تقاطع وترين داخل الدائرة تساوي ...,$\frac{1}{2}(x+y)$,$x+y$,$x-y$,$2x$,,False,,
-WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,4,الزاوية الناتجة من تقاطع قاطع مع قاطع أو قاطع مع مماس خارج الدائرة تساوي ...,$\frac{1}{2}(x-y)$,$x-y$,$x+y$,$2x$,,False,,
-WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,5,إذا كان $JK^2 = IK 	imes KM$ فإن النقطة $K$ تقع على ...,الوتر,المماس,الدائرة,القطر,,True,WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_5_diagram.png,
-WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,6,"إذا كان $AB 	imes AC = AD 	imes AE$ فإن النقاط $A, B, C, D, E$ تقع على ...",مستقيم واحد,دائرة واحدة,مستوي واحد,مماس واحد,,True,WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_6_diagram.png,
-WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,1,ناتج $1 + 1i$ هو:,1,1 + 1i,1i,0,B,False,,
-WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,2,"ناتج $8 + 4i \, (0$ هو:",4 + 4i,8 + 4i,8i,16,B,False,,
-WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,3,"ناتج $15 + 15i \, (0$ هو:",15i,15,1,0,D,False,,
-WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,4,الصيغة الجبرية لعدد مركب هو:,$a + bi$,$a - bi$,$a + b$,$a - b$,A,False,,
-WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,5,ناتج ضرب العددين المركبين $-32$ و $40$ هو:,-32,40,4 - 36i,4 + 36i,A,False,,
-WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,6,ناتج ضرب العددين المركبين $5(\cos 40^\circ + i \sin 40^\circ)$ و $3(\cos 50^\circ + i \sin 50^\circ)$ هو:,$i(2 + 6i)(2 - 6i)$,$i$,$i(2 + 6i)(2 + 6i)$,$-i$,C,False,,
-WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,7,إذا كان $z = 3 - \sqrt{5}$ فإن $z = 3 - \sqrt{5}$ هو:,$\sqrt{15}$,$\sqrt{14}$,$64\sqrt{3}$,$64$,C,False,,
-WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,8,إذا كان $z = 5 + 5\sqrt{3}$ فإن $z = 5 + 5\sqrt{3}$ هو:,27,30,41,60,A,False,,
-WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,9,إذا كان $z = 7\cos \frac{\pi}{3} + i\sin \frac{\pi}{3}$ فإن $|z|$ يساوي:,7,4,41,90,A,False,,
-WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,10,إذا كان $z = 100\cos \frac{\pi}{3} + i\sin \frac{\pi}{8}$ و $z = 10\cos \frac{\pi}{3} + i\sin \frac{\pi}{10}$ فإن $|z|$ يساوي:,225^0,180^0,120^0,90^0,C,False,,
+image,8,1,إذا كان \( \triangle ABC \sim \triangle EFG \) فإن ...,\( \angle A \equiv \angle E \),\( \angle A \equiv \angle G \),\( AC \equiv EF \),\( AB \equiv EF \),A,False,,
+image,8,7,"مثلثان متشابهان، أطوال أضلاع المثلث الأكبر 9, 15, 18 ونسبة التشابه 2 : 3، فما محيط المثلث الأصغر؟",26,14,24,28,D,False,,
+image,8,11,"ما صورة النقطة B(2,3) الناتجة من الإزاحة (x, y) → (x + 4, y – 5)؟","(4, -5)","(6, 0)","(6, -2)","(-2, 6)",C,False,,
+image,8,16,ما محيط المثلث ABC؟,36,30,32,24,B,True,image_question_16_diagram.png,
+image,8,17,كم عدد أضلاع المضلع المنتظم الذي قياس زاويته الداخلية 135°؟,6,5,8,7,C,False,,
+image,8,18,خماسي منتظم انطلقت منه قائمة الزاوية ومماسية تتقاطعان في نقطة داخلية، إذا كان قياس الزاوية المحصورة بين المماس والقائمة 45°، فما قياس الزاوية \( m	riangle XZR \)؟,30°,45°,60°,50°,A,True,image_question_18_diagram.png,
+image,8,26,قيمة x في الشكل تساوي:,4,6,8,المعطيات غير كافية,B,True,image_question_26_diagram.png,
+image,8,27,في الشكل المقابل، إذا كان \( m1 = m2 \) فما قيمة x؟,4,6,5,2,A,True,image_question_27_diagram.png,
+image,8,46,في المعين ABCD ما قيمة x؟,30°,60°,120°,90°,C,True,image_question_46_diagram.png,
+image,8,50,في المعين ABCD، إذا كان AC=10 و BD=24، فأوجد طول ضلع المعين.,8,15,13,5,C,True,image_question_50_diagram.png,
+WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,1,أي الدوال التالية لها ثلاث أصفار حقيقية؟,,,,,B,True,WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_1_diagram.png,كل الخيارات رسومات بيانية.
+WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,2,ناتج ضرب العددين المركبين (2 + 6i)(2 - 6i) هو,32-36i,40,4-36i,4+36i,B,False,,
+WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,3,قيمة 3(3+6i)^2 تساوي,36-27i,9+36i,9-36i,-27+36i,D,False,,
+WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,4,5i(7i) =,70,-70,-35,35,C,False,,
+WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,5,حيث i = \sqrt{-1} فإن i^{12} تساوي,1,-1,i,-i,A,False,,
+WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,6,قيمة \frac{2}{i} تساوي,i,-i,-2i,2i,C,False,,
+WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,7,4 + 36i =,-4+36i,-4-36i,4-36i,4+36i,B,False,,
+WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,8,مجموعة حل المعادلة 16 = x^4 هي,"{4, -4}",{4},"{2, -2, 2i, -2i}","{2, -2}",C,False,,
+WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,9,كم صفراً حقيقياً للدالة الممثلة في المقابلة,1,2,3,4,B,True,WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_9_diagram.png,الخيار يحتوي على رسم بياني واحد.
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,1,عند تبسيط العبارات المثلثية نستخدم ثلاث علاقات هامة لبدائل الدوال المثلثية,,,,,,False,,section
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,2,\sin^2 \theta + \cos^2 \theta = 1,,,,,,False,,identity
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,3,\tan^2 \theta + 1 = \sec^2 \theta,,,,,,False,,identity
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,4,1 + \cot^2 \theta = \csc^2 \theta,,,,,,False,,identity
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,5,\sin \theta = \frac{1}{\csc \theta},,,,,,False,,identity
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,6,\cos \theta = \frac{1}{\sec \theta},,,,,,False,,identity
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,7,\tan \theta = \frac{1}{\cot \theta},,,,,,False,,identity
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,8,\csc \theta = \frac{1}{\sin \theta},,,,,,False,,identity
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,9,\sec \theta = \frac{1}{\cos \theta},,,,,,False,,identity
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,10,\cot \theta = \frac{1}{\tan \theta},,,,,,False,,identity
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,11,استنتاجات الدوال المثلثية,,,,,,False,,rule
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,12,\sin(-\theta) = -\sin(\theta),,,,,,False,,identity
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,13,\cos(-\theta) = \cos(\theta),,,,,,False,,identity
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,14,\tan(-\theta) = -\tan(\theta),,,,,,False,,identity
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,15,حل المعادلات المثلثية ومراجعة جيب الحل,,,,,,False,,rule
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,16,"الدوال العكسية كجدول الدوال الدائرية
+y = \sin^{-1} x
+المجال = [-1, 1]
+المدى = \left[ -\frac{\pi}{2}, \frac{\pi}{2} \right]",,,,,,False,,definition
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,17,"الدوال العكسية كجدول الدوال الدائرية
+y = \cos^{-1} x
+المجال = [-1, 1]
+المدى = [0, \pi]",,,,,,False,,definition
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,18,"الدوال العكسية كجدول الدوال الدائرية
+y = \tan^{-1} x
+المجال = ( -\infty, \infty )
+المدى = \left( -\frac{\pi}{2}, \frac{\pi}{2} \right)",,,,,,False,,definition
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,19,"الدوال العكسية كجدول الدوال الدائرية
+y = \arcsin(b\theta)
+طول الدورة = \frac{360}{|b|}
+المدى = [-1, 1]",,,,,,True,WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_19_diagram.png,definition
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,20,"الدوال العكسية كجدول الدوال الدائرية
+y = \arccos(b\theta)
+طول الدورة = \frac{360}{|b|}
+المدى = [-1, 1]",,,,,,True,WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_20_diagram.png,definition
+WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,21,"الدوال العكسية كجدول الدوال الدائرية
+y = \arctan(b\theta)
+طول الدورة = \frac{180}{|b|}
+المدى = ( -\infty, \infty )",,,,,,True,WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_21_diagram.png,definition
+WhatsApp_Image_2026-01-11_at_3.08.38_PM,81,1,في أي من الرسومات التالية تعتمد النهاية على قيمة الدالة؟,الرسم الأول (الدالة متصلة),الرسم الثاني (الدالة غير متصلة),الرسم الثالث (الدالة غير معرفة عند x),غير واضح في الصورة,,True,,ثلاث رسومات بيانية توضح حالات اتصال وعدم اتصال الدالة.
+WhatsApp_Image_2026-01-11_at_3.08.38_PM,81,2,ما سبب عدم وجود النهاية في الرسم البياني المجاور؟,عدم اتصال,قابلية للازاحة,غير معرفة,غير واضح في الصورة,,True,,رسم بياني لدالة غير معرفة عند x=1.
+WhatsApp_Image_2026-01-11_at_3.08.38_PM,81,3,كلما اقتربت الدالة من الصفر، تقترب الدالة بقيمتين شديدتي السلوك التذبذبي.,,,,,,False,,ملاحظة نظرية حول سلوك الدالة.
+WhatsApp_Image_2026-01-11_at_3.08.38_PM,81,4,النهاية غير موجودة لأن الدالة بلا حدود من جهة وتتناقص من الأخرى.,,,,,,True,,رسم بياني لدالة تقترب من المالانهاية من جهة وسالب مالانهاية من الجهة الأخرى.
+WhatsApp_Image_2026-01-11_at_3.08.38_PM,81,5,"lim_{x \to 0^+} f(x) = \infty 
+lim_{x \to 0^-} f(x) = -\infty",,,,,,False,,سؤال عن نهاية دالة عند الصفر من اليمين واليسار.
+WhatsApp_Image_2026-01-11_at_3.08.38_PM,81,6,"lim_{x \to 0^+} f(x) = 2 
+lim_{x \to 0^-} f(x) = -2",,,,,,False,,سؤال عن نهاية دالة عند الصفر من اليمين واليسار.
+WhatsApp_Image_2026-01-11_at_3.08.38_PM,81,7,"سلوك طرفي التمثيل البياني للنهاية عند اللانهاية:
+lim_{x \to \infty} f(x) = 0, \quad lim_{x \to -\infty} f(x) = 0",,,,,,True,,رسم بياني لدالة تقترب من الصفر عند الطرفين.
+WhatsApp_Image_2026-01-11_at_3.08.39_PM_2,29,1,لها صفر واحد حقيقي,,,,,,True,,رسم بياني لدالة تقطع المحور x في نقطة واحدة
+WhatsApp_Image_2026-01-11_at_3.08.39_PM_2,29,2,لها 3 أصفار حقيقية,,,,,,True,,رسم بياني لدالة تقطع المحور x في ثلاث نقاط
+WhatsApp_Image_2026-01-11_at_3.08.39_PM_2,29,3,لها 4 أصفار حقيقية,,,,,,True,,رسم بياني لدالة تقطع المحور x في أربع نقاط
+WhatsApp_Image_2026-01-11_at_3.08.39_PM_2,29,4,ليس لها أصفار حقيقية,,,,,,True,,رسم بياني لدالة لا تقطع المحور x
+WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,1,المستقيم المماس يكون عمودياً على نصف القطر المرسوم من نقطة التماس.,,,,,,True,,يوجد رسم توضيحي لنقطة التماس ونصف القطر.
+WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,2,المقاطع المماسات المرسومان من نقطة خارج دائرة متطابقان.,,,,,,True,,يوجد رسم توضيحي لمماسين من نقطة خارج الدائرة.
+WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,3,"الزاوية المماسية الزاوية المحيطية تساوي نصف قياس القوس المقابل
+m∠1 = \frac{1}{2}x",,,,,,False,,
+WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,4,"الزاوية الناتجة من تقاطع وترين داخل الدائرة
+m∠1 = \frac{1}{2}(x + y)",,,,,,True,,يوجد رسم توضيحي لوترين متقاطعين داخل دائرة.
+WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,5,"الزاوية الناتجة من تقاطع وترين خارج دائرة أو مماسين أو وتر ومماس
+m∠1 = \frac{1}{2}(x - y)",,,,,,True,,يوجد رسم توضيحي لوترين متقاطعين خارج دائرة.
+WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,6,JK^2 = JL × JM,,,,,,True,,يوجد رسم توضيحي لأوتار في دائرة.
+WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,7,AB × AC = AD × AE,,,,,,True,,يوجد رسم توضيحي لأوتار متقاطعة.
+WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,8,AB × BC = EB × BD,,,,,,True,,يوجد رسم توضيحي لأوتار متقاطعة.
+WhatsApp_Image_2026-01-11_at_3.08.40_PM_5,79,1,"تذكر: 
+i = \sqrt{-1} 
+ i^1 = i, \; i^2 = -1 
+ i^3 = -i, \; i^4 = 1",,,,,,False,,بطاقة تعريفية عن الوحدة التخيلية i
+WhatsApp_Image_2026-01-11_at_3.08.40_PM_5,79,2,"الصورة الجبرية: 
+ العدد المركب z = a + bi 
+ القيمة المطلقة للعدد المركب |z| = r = \sqrt{a^2 + b^2} 
+ سعة العدد المركب \theta = \tan^{-1} \frac{b}{a}, \; a > 0 
+ \theta = \tan^{-1} \frac{b}{a} + 180, \; a < 0",,,,,,False,,تعريف الصورة الجبرية للعدد المركب
+WhatsApp_Image_2026-01-11_at_3.08.40_PM_5,79,3,"الصورة القطبية: 
+ z = r(\cos\theta + i \sin\theta) 
+ a = r \cos\theta 
+ b = r \sin\theta",,,,,,False,,تعريف الصورة القطبية للعدد المركب
+WhatsApp_Image_2026-01-11_at_3.08.40_PM_5,79,4,"نظرية ديموافر (ضرب وقسمة وقوة الأعداد المركبة من الصورة القطبية): 
+ z_1 = r_1(\cos\theta_1 + i \sin\theta_1), \; z_2 = r_2(\cos\theta_2 + i \sin\theta_2) 
+ z_1 z_2 = r_1 r_2 [\cos(\theta_1 + \theta_2) + i \sin(\theta_1 + \theta_2)] 
+ \frac{z_1}{z_2} = \frac{r_1}{r_2} [\cos(\theta_1 - \theta_2) + i \sin(\theta_1 - \theta_2)] 
+ (z_1)^n = (r_1)^n [\cos(n\theta_1) + i \sin(n\theta_1)]",,,,,,False,,نظرية ديموافر للضرب والقسمة والأس
+WhatsApp_Image_2026-01-11_at_3.08.40_PM_5,79,5,"نظرية ديموافر (الجذور النونية للعدد المركب n > 2): 
+ (z_1)^{\frac{1}{n}} = (r_1)^{\frac{1}{n}} \left( \cos\left(\frac{\theta + 2k\pi}{n}\right) + i \sin\left(\frac{\theta + 2k\pi}{n}\right) \right) 
+ k = 0, 1, 2, 3, ..., n-1",,,,,,False,,نظرية ديموافر للجذور النونية
+WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,1,الصورة الديكارتية للعدد المركب \[2 \cos \frac{\pi}{4} + i \sin \frac{\pi}{4}\] هي:,4i,-4i,4,4,D,False,,
+WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,2,إذا كان \(z = 7 \cos \frac{\pi}{3} + i \sin \frac{\pi}{3}\) فإن سعة العدد المركب هي:,60,30,90,120,C,False,,
+WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,3,قيمة المقدار \(6(1 + \sqrt{3}i)\) هو:,27,64,64\sqrt{3},27\sqrt{3},B,False,,
+WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,4,الصورة الديكارتية للعدد المركب \(z = 5 + 5\sqrt{3}i\) هي:,z = 5 + 5\sqrt{3}i,z = 3 - \sqrt{5}i,z = 3 + \sqrt{5}i,z = 5 - 5\sqrt{3}i,A,False,,
+WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,5,100 \(\cos \frac{\pi}{3} + i \sin \frac{\pi}{3}\) / 10 \(\cos \frac{2\pi}{3} + i \sin \frac{2\pi}{3}\) = ؟,40,41,\sqrt{14},4,D,False,,
+WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,6,سعة العدد المركب \(z = 3 - \sqrt{5}i\) هي:,\sqrt{34},\sqrt{15},\sqrt{14},\sqrt{41},C,False,,
+WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,7,ما قيمة: 225°,45,135,180,225,A,False,,
+WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,8,نتائج ضرب العددين المركبين \(i(2 + 6i)(2 - 6i)\) هو؟,-32,40,4 - 6i,4 + 36i,B,False,,
+WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,9,نتائج ضرب العددين المركبين \(5[\cos 40° + i \sin 40°](3[\cos 50° + i \sin 50°])\),1,i,-i,غير واضح في الصورة,A,False,,
+WhatsApp_Image_2026-01-11_at_3.08.40_PM_6,80,10,الصورة الديكارتية لـ \((1 + i)^8\) هو؟,16i,1 + i,16,4 + 4i,C,False,,

@@ -1,98 +1,168 @@
 {
   "page_number": 20,
+  "selected_candidate": "targeted_upright",
+  "page_type": "mcq",
+  "title_ar": "هندسة الدائرة",
+  "question_numbers_scanned": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "answer_key": null,
   "questions": [
     {
       "number": 1,
-      "text_ar": "المقطع المستقيم المرسوم من مركز الدائرة إلى نقطة على الدائرة يسمى ...",
+      "text_ar": "المستقيم المماس يكون عمودياً على نصف القطر المرسوم من نقطة التماس.",
       "options": {
-        "A": "الوتر",
-        "B": "القطر",
-        "C": "المماس",
-        "D": "نصف القطر"
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
       },
       "correct": null,
       "has_diagram": true,
-      "diagram_region_id": 12,
-      "diagram_bbox": null,
-      "notes": "",
-      "diagram_path": "images/question_1_diagram.png"
+      "diagram_bbox": [
+        370,
+        70,
+        520,
+        170
+      ],
+      "notes": "يوجد رسم توضيحي لنقطة التماس ونصف القطر."
     },
     {
       "number": 2,
-      "text_ar": "الزاوية الناتجة من تقاطع مماسين من نقطة خارج الدائرة تساوي ...",
+      "text_ar": "المقاطع المماسات المرسومان من نقطة خارج دائرة متطابقان.",
       "options": {
-        "A": "$\\frac{1}{2}(x-y)$",
-        "B": "$x-y$",
-        "C": "$x+y$",
-        "D": "$2x$"
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
       },
       "correct": null,
-      "has_diagram": false,
-      "diagram_region_id": null,
-      "diagram_bbox": null,
-      "notes": ""
+      "has_diagram": true,
+      "diagram_bbox": [
+        60,
+        60,
+        320,
+        170
+      ],
+      "notes": "يوجد رسم توضيحي لمماسين من نقطة خارج الدائرة."
     },
     {
       "number": 3,
-      "text_ar": "الزاوية الناتجة من تقاطع وترين داخل الدائرة تساوي ...",
+      "text_ar": "الزاوية المماسية الزاوية المحيطية تساوي نصف قياس القوس المقابل\nm∠1 = \\frac{1}{2}x",
       "options": {
-        "A": "$\\frac{1}{2}(x+y)$",
-        "B": "$x+y$",
-        "C": "$x-y$",
-        "D": "$2x$"
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
       },
       "correct": null,
       "has_diagram": false,
-      "diagram_region_id": null,
       "diagram_bbox": null,
       "notes": ""
     },
     {
       "number": 4,
-      "text_ar": "الزاوية الناتجة من تقاطع قاطع مع قاطع أو قاطع مع مماس خارج الدائرة تساوي ...",
+      "text_ar": "الزاوية الناتجة من تقاطع وترين داخل الدائرة\nm∠1 = \\frac{1}{2}(x + y)",
       "options": {
-        "A": "$\\frac{1}{2}(x-y)$",
-        "B": "$x-y$",
-        "C": "$x+y$",
-        "D": "$2x$"
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
       },
       "correct": null,
-      "has_diagram": false,
-      "diagram_region_id": null,
-      "diagram_bbox": null,
-      "notes": ""
+      "has_diagram": true,
+      "diagram_bbox": [
+        370,
+        220,
+        520,
+        320
+      ],
+      "notes": "يوجد رسم توضيحي لوترين متقاطعين داخل دائرة."
     },
     {
       "number": 5,
-      "text_ar": "إذا كان $JK^2 = IK \times KM$ فإن النقطة $K$ تقع على ...",
+      "text_ar": "الزاوية الناتجة من تقاطع وترين خارج دائرة أو مماسين أو وتر ومماس\nm∠1 = \\frac{1}{2}(x - y)",
       "options": {
-        "A": "الوتر",
-        "B": "المماس",
-        "C": "الدائرة",
-        "D": "القطر"
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
       },
       "correct": null,
       "has_diagram": true,
-      "diagram_region_id": 6,
-      "diagram_bbox": null,
-      "notes": "",
-      "diagram_path": "images/question_5_diagram.png"
+      "diagram_bbox": [
+        60,
+        220,
+        320,
+        320
+      ],
+      "notes": "يوجد رسم توضيحي لوترين متقاطعين خارج دائرة."
     },
     {
       "number": 6,
-      "text_ar": "إذا كان $AB \times AC = AD \times AE$ فإن النقاط $A, B, C, D, E$ تقع على ...",
+      "text_ar": "JK^2 = JL × JM",
       "options": {
-        "A": "مستقيم واحد",
-        "B": "دائرة واحدة",
-        "C": "مستوي واحد",
-        "D": "مماس واحد"
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
       },
       "correct": null,
       "has_diagram": true,
-      "diagram_region_id": 8,
-      "diagram_bbox": null,
-      "notes": "",
-      "diagram_path": "images/question_6_diagram.png"
+      "diagram_bbox": [
+        60,
+        340,
+        320,
+        420
+      ],
+      "notes": "يوجد رسم توضيحي لأوتار في دائرة."
+    },
+    {
+      "number": 7,
+      "text_ar": "AB × AC = AD × AE",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": true,
+      "diagram_bbox": [
+        370,
+        340,
+        520,
+        420
+      ],
+      "notes": "يوجد رسم توضيحي لأوتار متقاطعة."
+    },
+    {
+      "number": 8,
+      "text_ar": "AB × BC = EB × BD",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct": null,
+      "has_diagram": true,
+      "diagram_bbox": [
+        570,
+        340,
+        720,
+        420
+      ],
+      "notes": "يوجد رسم توضيحي لأوتار متقاطعة."
     }
-  ]
+  ],
+  "quality_notes": "الصفحة تحتوي على ملخصات وقوانين مع رسومات توضيحية، لا توجد اختيارات أو مفتاح إجابة، وتم استخراج كل بند كعنصر سؤال منفصل.",
+  "content_blocks": []
 }
