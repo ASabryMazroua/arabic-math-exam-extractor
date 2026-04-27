@@ -41,7 +41,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 7,
@@ -56,7 +57,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 11,
@@ -71,7 +73,10 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed",
+      "diagram_kind": "single_diagram",
+      "diagram_description": "Coordinate axes with a labeled point and vector notation."
     },
     {
       "number": 16,
@@ -83,11 +88,17 @@
         "D": "24"
       },
       "correct": "B",
-      "has_diagram": false,
-      "diagram_bbox": null,
+      "has_diagram": true,
+      "diagram_bbox": [
+        0.032,
+        0.765,
+        0.445,
+        0.945
+      ],
       "notes": "",
-      "diagram_path": "",
-      "deliverable_image": "image_question_16_diagram.png"
+      "diagram_path": "images/question_16_diagram.png",
+      "deliverable_image": "image_question_16_diagram.png",
+      "qc_status": "recovered"
     },
     {
       "number": 17,
@@ -102,7 +113,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 18,
@@ -114,13 +126,19 @@
         "D": "50°"
       },
       "correct": "A",
-      "has_diagram": false,
-      "diagram_bbox": null,
+      "has_diagram": true,
+      "diagram_bbox": [
+        0.55,
+        0.18,
+        0.93,
+        0.38
+      ],
       "notes": "",
-      "diagram_path": "",
+      "diagram_path": "images/question_18_diagram.png",
       "deliverable_image": "image_question_18_diagram.png",
       "diagram_kind": "single_diagram",
-      "diagram_description": "A star-shaped polygon with labeled vertices and angles."
+      "diagram_description": "A star-shaped polygon with labeled vertices and angles.",
+      "qc_status": "ok_with_diagram"
     },
     {
       "number": 26,
@@ -134,16 +152,17 @@
       "correct": "B",
       "has_diagram": true,
       "diagram_bbox": [
-        0.06,
-        0.26,
-        0.28,
-        0.41
+        0.05,
+        0.22,
+        0.23,
+        0.36
       ],
       "notes": "",
       "diagram_path": "images/question_26_diagram.png",
       "deliverable_image": "image_question_26_diagram.png",
       "diagram_kind": "single_diagram",
-      "diagram_description": "A triangle with labeled sides and angles, numbers on sides."
+      "diagram_description": "A triangle with labeled sides and angles, including a marked angle.",
+      "qc_status": "ok_with_diagram"
     },
     {
       "number": 27,
@@ -157,16 +176,17 @@
       "correct": "A",
       "has_diagram": true,
       "diagram_bbox": [
-        0.06,
-        0.44,
-        0.28,
-        0.59
+        0.05,
+        0.39,
+        0.23,
+        0.53
       ],
       "notes": "",
       "diagram_path": "images/question_27_diagram.png",
       "deliverable_image": "image_question_27_diagram.png",
       "diagram_kind": "single_diagram",
-      "diagram_description": "A triangle with labeled vertices and sides, numbers on sides."
+      "diagram_description": "A triangle with labeled vertices and sides, and a marked angle.",
+      "qc_status": "ok_with_diagram"
     },
     {
       "number": 46,
@@ -180,16 +200,17 @@
       "correct": "C",
       "has_diagram": true,
       "diagram_bbox": [
-        0.54,
-        0.41,
+        0.55,
+        0.39,
         0.93,
-        0.56
+        0.53
       ],
       "notes": "",
       "diagram_path": "images/question_46_diagram.png",
       "deliverable_image": "image_question_46_diagram.png",
       "diagram_kind": "single_diagram",
-      "diagram_description": "A parallelogram with labeled vertices and angles."
+      "diagram_description": "A parallelogram ABCD with labeled vertices and angles.",
+      "qc_status": "ok_with_diagram"
     },
     {
       "number": 50,
@@ -203,16 +224,17 @@
       "correct": "C",
       "has_diagram": true,
       "diagram_bbox": [
-        0.06,
-        0.07,
-        0.28,
-        0.22
+        0.05,
+        0.05,
+        0.23,
+        0.19
       ],
       "notes": "",
       "diagram_path": "images/question_50_diagram.png",
       "deliverable_image": "image_question_50_diagram.png",
       "diagram_kind": "single_diagram",
-      "diagram_description": "A quadrilateral (ABCD) with diagonals drawn, labeled points and sides."
+      "diagram_description": "A quadrilateral ABCD with diagonals drawn, labeled points and sides.",
+      "qc_status": "no_diagram_needed"
     }
   ],
   "quality_notes": "تم استخراج جميع الأسئلة بوضوح مع مطابقة الإجابات الصحيحة من جدول الإجابة المظلل. تم تحديد مربعات الرسوم التوضيحية بشكل تقريبي حسب أماكنها النسبية.",

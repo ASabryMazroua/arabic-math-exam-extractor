@@ -36,6 +36,8 @@
 - **C.** 32
 - **D.** 24
 
+![Q16 diagram](images/question_16_diagram.png)
+
 ## Q17
 
 كم عدد أضلاع المضلع المنتظم الذي قياس زاويته الداخلية 135°؟
@@ -53,6 +55,8 @@
 - **B.** 45°
 - **C.** 60°
 - **D.** 50°
+
+![Q18 diagram](images/question_18_diagram.png)
 
 ## Q26
 

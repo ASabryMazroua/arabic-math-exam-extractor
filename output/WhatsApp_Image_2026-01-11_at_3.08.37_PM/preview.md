@@ -82,3 +82,5 @@
 - **B.** 2 ✅
 - **C.** 3
 - **D.** 4
+
+![Q9 diagram](images/question_9_diagram.png)

@@ -2,9 +2,9 @@
 image,8,1,إذا كان \( \triangle ABC \sim \triangle EFG \) فإن ...,\( \angle A \equiv \angle E \),\( \angle A \equiv \angle G \),\( AC \equiv EF \),\( AB \equiv EF \),A,False,,
 image,8,7,"مثلثان متشابهان، أطوال أضلاع المثلث الأكبر 9, 15, 18 ونسبة التشابه 2 : 3، فما محيط المثلث الأصغر؟",26,14,24,28,D,False,,
 image,8,11,"ما صورة النقطة B(2,3) الناتجة من الإزاحة (x, y) → (x + 4, y – 5)؟","(4, -5)","(6, 0)","(6, -2)","(-2, 6)",C,False,,
-image,8,16,ما محيط المثلث ABC؟,36,30,32,24,B,False,image_question_16_diagram.png,
+image,8,16,ما محيط المثلث ABC؟,36,30,32,24,B,True,image_question_16_diagram.png,
 image,8,17,كم عدد أضلاع المضلع المنتظم الذي قياس زاويته الداخلية 135°؟,6,5,8,7,C,False,,
-image,8,18,خماسي منتظم انطلقت منه قائمة الزاوية ومماسية تتقاطعان في نقطة داخلية، إذا كان قياس الزاوية المحصورة بين المماس والقائمة 45°، فما قياس الزاوية \( m	riangle XZR \)؟,30°,45°,60°,50°,A,False,image_question_18_diagram.png,
+image,8,18,خماسي منتظم انطلقت منه قائمة الزاوية ومماسية تتقاطعان في نقطة داخلية، إذا كان قياس الزاوية المحصورة بين المماس والقائمة 45°، فما قياس الزاوية \( m	riangle XZR \)؟,30°,45°,60°,50°,A,True,image_question_18_diagram.png,
 image,8,26,قيمة x في الشكل تساوي:,4,6,8,المعطيات غير كافية,B,True,image_question_26_diagram.png,
 image,8,27,في الشكل المقابل، إذا كان \( m1 = m2 \) فما قيمة x؟,4,6,5,2,A,True,image_question_27_diagram.png,
 image,8,46,في المعين ABCD ما قيمة x؟,30°,60°,120°,90°,C,True,image_question_46_diagram.png,
@@ -17,7 +17,7 @@ WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,5,حيث i = \sqrt{-1} فإن i^{12} 
 WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,6,قيمة \frac{2}{i} تساوي,i,-i,-2i,2i,C,False,,
 WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,7,4 + 36i =,-4+36i,-4-36i,4-36i,4+36i,B,False,,
 WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,8,مجموعة حل المعادلة 16 = x^4 هي,"{4, -4}",{4},"{2, -2, 2i, -2i}","{2, -2}",C,False,,
-WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,9,كم صفراً حقيقياً للدالة الممثلة في المقابلة,1,2,3,4,B,False,WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_9_diagram.png,الخيار يحتوي على رسم بياني واحد.
+WhatsApp_Image_2026-01-11_at_3.08.37_PM,30,9,كم صفراً حقيقياً للدالة الممثلة في المقابلة,1,2,3,4,B,True,WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_9_diagram.png,الخيار يحتوي على رسم بياني واحد.
 WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,1,عند تبسيط العبارات المثلثية نستخدم ثلاث علاقات هامة لبدائل الدوال المثلثية,,,,,,True,WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_1_diagram.png,section
 WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,2,\sin^2 \theta + \cos^2 \theta = 1,,,,,,False,,identity
 WhatsApp_Image_2026-01-11_at_3.08.38_PM_1,53,3,\tan^2 \theta + 1 = \sec^2 \theta,,,,,,False,,identity
@@ -79,9 +79,9 @@ WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,4,"الزاوية الناتجة م
 m∠1 = \frac{1}{2}(x + y)",,,,,,True,WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_4_diagram.png,يوجد رسم توضيحي لوترين متقاطعين داخل دائرة.
 WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,5,"الزاوية الناتجة من تقاطع وترين خارج دائرة أو مماسين أو وتر ومماس
 m∠1 = \frac{1}{2}(x - y)",,,,,,False,,يوجد رسم توضيحي لوترين متقاطعين خارج دائرة.
-WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,6,JK^2 = JL × JM,,,,,,False,,يوجد رسم توضيحي لأوتار في دائرة.
+WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,6,JK^2 = JL × JM,,,,,,True,WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_6_diagram.png,يوجد رسم توضيحي لأوتار في دائرة.
 WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,7,AB × AC = AD × AE,,,,,,True,WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_7_diagram.png,يوجد رسم توضيحي لأوتار متقاطعة.
-WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,8,AB × BC = EB × BD,,,,,,False,,يوجد رسم توضيحي لأوتار متقاطعة.
+WhatsApp_Image_2026-01-11_at_3.08.39_PM_3,20,8,AB × BC = EB × BD,,,,,,True,WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_8_diagram.png,يوجد رسم توضيحي لأوتار متقاطعة.
 WhatsApp_Image_2026-01-11_at_3.08.40_PM_5,79,1,"تذكر: 
 i = \sqrt{-1} 
  i^1 = i, \; i^2 = -1 

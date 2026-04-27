@@ -35,7 +35,8 @@
       "diagram_path": "images/question_1_diagram.png",
       "diagram_kind": "single_diagram",
       "diagram_description": "Three graphs of functions showing different behaviors of limits, each with labeled axes and function notation.",
-      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_question_1_diagram.png"
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_question_1_diagram.png",
+      "qc_status": "ok_with_diagram"
     },
     {
       "number": 2,
@@ -58,7 +59,8 @@
       "diagram_path": "images/question_2_diagram.png",
       "diagram_kind": "single_diagram",
       "diagram_description": "Graph of a function with vertical lines and labeled axes, illustrating reasons for non-existence of limits.",
-      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_question_2_diagram.png"
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_question_2_diagram.png",
+      "qc_status": "ok_with_diagram"
     },
     {
       "number": 3,
@@ -81,7 +83,8 @@
       "diagram_path": "images/question_3_diagram.png",
       "diagram_kind": "single_diagram",
       "diagram_description": "Graph of a function with a curve and labeled axes, illustrating reasons for non-existence of limits.",
-      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_question_3_diagram.png"
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_question_3_diagram.png",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 4,
@@ -98,7 +101,8 @@
       "notes": "رسم بياني لدالة تقترب من المالانهاية من جهة وسالب مالانهاية من الجهة الأخرى.",
       "diagram_path": "",
       "diagram_kind": "single_diagram",
-      "diagram_description": "Graph of a function with vertical asymptote and shaded region."
+      "diagram_description": "Graph of a function with vertical asymptote and shaded region.",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 5,
@@ -115,7 +119,8 @@
       "notes": "سؤال عن نهاية دالة عند الصفر من اليمين واليسار.",
       "diagram_path": "",
       "diagram_kind": "single_diagram",
-      "diagram_description": "Graph of a function with two branches and vertical/horizontal asymptotes."
+      "diagram_description": "Graph of a function with two branches and vertical/horizontal asymptotes.",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 6,
@@ -130,7 +135,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "سؤال عن نهاية دالة عند الصفر من اليمين واليسار.",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 7,
@@ -145,7 +151,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "رسم بياني لدالة تقترب من الصفر عند الطرفين.",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     }
   ],
   "quality_notes": "الصفحة تحتوي على شروحات نظرية ورسومات بيانية مع أسئلة قصيرة أو ملاحظات، لا توجد خيارات واضحة لكل سؤال، ولا يوجد جدول إجابات.",

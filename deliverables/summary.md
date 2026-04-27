@@ -40,6 +40,8 @@
 - **C.** 32
 - **D.** 24
 
+![Q16 diagram](images/question_16_diagram.png)
+
 ## Q17
 
 كم عدد أضلاع المضلع المنتظم الذي قياس زاويته الداخلية 135°؟
@@ -57,6 +59,8 @@
 - **B.** 45°
 - **C.** 60°
 - **D.** 50°
+
+![Q18 diagram](images/question_18_diagram.png)
 
 ## Q26
 
@@ -189,6 +193,8 @@
 - **B.** 2 ✅
 - **C.** 3
 - **D.** 4
+
+![Q9 diagram](images/question_9_diagram.png)
 
 
 # WhatsApp_Image_2026-01-11_at_3.08.38_PM_1
@@ -594,6 +600,8 @@ JK^2 = JL × JM
 - **C.** 
 - **D.** 
 
+![Q6 diagram](images/question_6_diagram.png)
+
 ## Q7
 
 AB × AC = AD × AE
@@ -613,6 +621,8 @@ AB × BC = EB × BD
 - **B.** 
 - **C.** 
 - **D.** 
+
+![Q8 diagram](images/question_8_diagram.png)
 
 
 # WhatsApp_Image_2026-01-11_at_3.08.40_PM_5

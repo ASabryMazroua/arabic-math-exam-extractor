@@ -25,7 +25,8 @@
       "diagram_path": "images/question_1_diagram.png",
       "diagram_kind": "single_diagram",
       "diagram_description": "Graph of y = sin(theta) with labeled axes and points",
-      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_1_diagram.png"
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_1_diagram.png",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 2,
@@ -42,7 +43,8 @@
       "notes": "identity",
       "diagram_path": "",
       "diagram_kind": "single_diagram",
-      "diagram_description": "Graph of y = cos(θ) showing periodic wave with labeled axes and points."
+      "diagram_description": "Graph of y = cos(θ) showing periodic wave with labeled axes and points.",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 3,
@@ -57,7 +59,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "identity",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 4,
@@ -72,7 +75,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "identity",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 5,
@@ -87,7 +91,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "identity",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 6,
@@ -102,7 +107,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "identity",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 7,
@@ -117,7 +123,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "identity",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 8,
@@ -132,7 +139,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "identity",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 9,
@@ -147,7 +155,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "identity",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 10,
@@ -162,7 +171,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "identity",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 11,
@@ -177,7 +187,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "rule",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 12,
@@ -192,7 +203,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "identity",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 13,
@@ -207,7 +219,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "identity",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 14,
@@ -222,7 +235,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "identity",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 15,
@@ -237,7 +251,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "rule",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 16,
@@ -252,7 +267,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "definition",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 17,
@@ -267,7 +283,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "definition",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 18,
@@ -282,7 +299,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "definition",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 19,
@@ -298,7 +316,8 @@
       "diagram_bbox": null,
       "notes": "definition",
       "diagram_path": "",
-      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_19_diagram.png"
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_19_diagram.png",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 20,
@@ -314,7 +333,8 @@
       "diagram_bbox": null,
       "notes": "definition",
       "diagram_path": "",
-      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_20_diagram.png"
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_20_diagram.png",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 21,
@@ -330,7 +350,8 @@
       "diagram_bbox": null,
       "notes": "definition",
       "diagram_path": "",
-      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_21_diagram.png"
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_21_diagram.png",
+      "qc_status": "no_diagram_needed"
     }
   ],
   "content_blocks": [],

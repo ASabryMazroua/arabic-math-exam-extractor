@@ -36,7 +36,8 @@
       "diagram_path": "images/question_1_diagram.png",
       "diagram_kind": "single_diagram",
       "diagram_description": "Circle with points A, B, D and a chord.",
-      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_1_diagram.png"
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_1_diagram.png",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 2,
@@ -59,7 +60,8 @@
       "diagram_path": "images/question_2_diagram.png",
       "diagram_kind": "single_diagram",
       "diagram_description": "Circle with a radius and a perpendicular tangent line labeled S and T.",
-      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_2_diagram.png"
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_2_diagram.png",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 3,
@@ -82,7 +84,8 @@
       "diagram_path": "images/question_3_diagram.png",
       "diagram_kind": "single_diagram",
       "diagram_description": "Two circles each with a chord and labeled points, showing equal segments.",
-      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_3_diagram.png"
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_3_diagram.png",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 4,
@@ -105,7 +108,8 @@
       "diagram_path": "images/question_4_diagram.png",
       "diagram_kind": "single_diagram",
       "diagram_description": "Two circles each with intersecting chords and labeled points, showing equal angles.",
-      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_4_diagram.png"
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_4_diagram.png",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 5,
@@ -120,7 +124,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "يوجد رسم توضيحي لوترين متقاطعين خارج دائرة.",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 6,
@@ -132,12 +137,19 @@
         "D": ""
       },
       "correct": null,
-      "has_diagram": false,
-      "diagram_bbox": null,
+      "has_diagram": true,
+      "diagram_bbox": [
+        0.08,
+        0.68,
+        0.44,
+        0.87
+      ],
       "notes": "يوجد رسم توضيحي لأوتار في دائرة.",
-      "diagram_path": "",
+      "diagram_path": "images/question_6_diagram.png",
       "diagram_kind": "single_diagram",
-      "diagram_description": "Circle with intersecting chords AB, AC, AD, AE, and another circle with intersecting chords AB, BC, EB, BD."
+      "diagram_description": "Circle with intersecting chords AB, AC, AD, AE, and another circle with intersecting chords AB, BC, EB, BD.",
+      "qc_status": "recovered",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_6_diagram.png"
     },
     {
       "number": 7,
@@ -160,7 +172,8 @@
       "diagram_path": "images/question_7_diagram.png",
       "diagram_kind": "single_diagram",
       "diagram_description": "Circle with points A, B, C, D, E and colored segments showing intersecting chords.",
-      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_7_diagram.png"
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_7_diagram.png",
+      "qc_status": "ok_with_diagram"
     },
     {
       "number": 8,
@@ -172,10 +185,17 @@
         "D": ""
       },
       "correct": null,
-      "has_diagram": false,
-      "diagram_bbox": null,
+      "has_diagram": true,
+      "diagram_bbox": [
+        0.68,
+        0.74,
+        0.93,
+        0.92
+      ],
       "notes": "يوجد رسم توضيحي لأوتار متقاطعة.",
-      "diagram_path": ""
+      "diagram_path": "images/question_8_diagram.png",
+      "qc_status": "recovered",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_8_diagram.png"
     }
   ],
   "quality_notes": "الصفحة تحتوي على ملخصات وقوانين مع رسومات توضيحية، لا توجد اختيارات أو مفتاح إجابة، وتم استخراج كل بند كعنصر سؤال منفصل.",

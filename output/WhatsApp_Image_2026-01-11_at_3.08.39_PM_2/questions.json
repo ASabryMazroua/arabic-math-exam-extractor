@@ -32,7 +32,8 @@
       "diagram_path": "images/question_1_diagram.png",
       "diagram_kind": "four_option_graphs",
       "diagram_description": "A horizontal strip containing four mathematical graphs, each illustrating different polynomial functions with axes labeled f(x) and x, and Arabic annotations below each graph.",
-      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_2_question_1_diagram.png"
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_2_question_1_diagram.png",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 2,
@@ -47,7 +48,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "رسم بياني لدالة تقطع المحور x في ثلاث نقاط",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 3,
@@ -62,7 +64,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "رسم بياني لدالة تقطع المحور x في أربع نقاط",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     },
     {
       "number": 4,
@@ -77,7 +80,8 @@
       "has_diagram": false,
       "diagram_bbox": null,
       "notes": "رسم بياني لدالة لا تقطع المحور x",
-      "diagram_path": ""
+      "diagram_path": "",
+      "qc_status": "no_diagram_needed"
     }
   ],
   "quality_notes": "الصفحة تحتوي على أمثلة وشروحات نظرية بالإضافة إلى أربعة رسومات بيانية كل منها يمثل سؤالاً حول عدد الأصفار الحقيقية للدوال. لا توجد خيارات أو مفتاح إجابة ظاهر.",

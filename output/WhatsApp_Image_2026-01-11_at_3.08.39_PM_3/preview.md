@@ -65,6 +65,8 @@ JK^2 = JL × JM
 - **C.** 
 - **D.** 
 
+![Q6 diagram](images/question_6_diagram.png)
+
 ## Q7
 
 AB × AC = AD × AE
@@ -84,3 +86,5 @@ AB × BC = EB × BD
 - **B.** 
 - **C.** 
 - **D.** 
+
+![Q8 diagram](images/question_8_diagram.png)
