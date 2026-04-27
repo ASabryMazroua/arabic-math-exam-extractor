@@ -1,0 +1,167 @@
+{
+  "page_number": 80,
+  "questions": [
+    {
+      "number": 1,
+      "text_ar": "ناتج $1 + 1i$ هو:",
+      "options": {
+        "A": "1",
+        "B": "1 + 1i",
+        "C": "1i",
+        "D": "0"
+      },
+      "correct": "B",
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    },
+    {
+      "number": 2,
+      "text_ar": "ناتج $8 + 4i \\, (0$ هو:",
+      "options": {
+        "A": "4 + 4i",
+        "B": "8 + 4i",
+        "C": "8i",
+        "D": "16"
+      },
+      "correct": "B",
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    },
+    {
+      "number": 3,
+      "text_ar": "ناتج $15 + 15i \\, (0$ هو:",
+      "options": {
+        "A": "15i",
+        "B": "15",
+        "C": "1",
+        "D": "0"
+      },
+      "correct": "D",
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    },
+    {
+      "number": 4,
+      "text_ar": "الصيغة الجبرية لعدد مركب هو:",
+      "options": {
+        "A": "$a + bi$",
+        "B": "$a - bi$",
+        "C": "$a + b$",
+        "D": "$a - b$"
+      },
+      "correct": "A",
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    },
+    {
+      "number": 5,
+      "text_ar": "ناتج ضرب العددين المركبين $-32$ و $40$ هو:",
+      "options": {
+        "A": "-32",
+        "B": "40",
+        "C": "4 - 36i",
+        "D": "4 + 36i"
+      },
+      "correct": "A",
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    },
+    {
+      "number": 6,
+      "text_ar": "ناتج ضرب العددين المركبين $5(\\cos 40^\\circ + i \\sin 40^\\circ)$ و $3(\\cos 50^\\circ + i \\sin 50^\\circ)$ هو:",
+      "options": {
+        "A": "$i(2 + 6i)(2 - 6i)$",
+        "B": "$i$",
+        "C": "$i(2 + 6i)(2 + 6i)$",
+        "D": "$-i$"
+      },
+      "correct": "C",
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    },
+    {
+      "number": 7,
+      "text_ar": "إذا كان $z = 3 - \\sqrt{5}$ فإن $z = 3 - \\sqrt{5}$ هو:",
+      "options": {
+        "A": "$\\sqrt{15}$",
+        "B": "$\\sqrt{14}$",
+        "C": "$64\\sqrt{3}$",
+        "D": "$64$"
+      },
+      "correct": "C",
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    },
+    {
+      "number": 8,
+      "text_ar": "إذا كان $z = 5 + 5\\sqrt{3}$ فإن $z = 5 + 5\\sqrt{3}$ هو:",
+      "options": {
+        "A": "27",
+        "B": "30",
+        "C": "41",
+        "D": "60"
+      },
+      "correct": "A",
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    },
+    {
+      "number": 9,
+      "text_ar": "إذا كان $z = 7\\cos \\frac{\\pi}{3} + i\\sin \\frac{\\pi}{3}$ فإن $|z|$ يساوي:",
+      "options": {
+        "A": "7",
+        "B": "4",
+        "C": "41",
+        "D": "90"
+      },
+      "correct": "A",
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    },
+    {
+      "number": 10,
+      "text_ar": "إذا كان $z = 100\\cos \\frac{\\pi}{3} + i\\sin \\frac{\\pi}{8}$ و $z = 10\\cos \\frac{\\pi}{3} + i\\sin \\frac{\\pi}{10}$ فإن $|z|$ يساوي:",
+      "options": {
+        "A": "225^\u000b0",
+        "B": "180^\u000b0",
+        "C": "120^\u000b0",
+        "D": "90^\u000b0"
+      },
+      "correct": "C",
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    }
+  ],
+  "answer_key": {
+    "1": "B",
+    "2": "B",
+    "3": "D",
+    "4": "A",
+    "5": "A",
+    "6": "C",
+    "7": "C",
+    "8": "A",
+    "9": "A",
+    "10": "C"
+  }
+}

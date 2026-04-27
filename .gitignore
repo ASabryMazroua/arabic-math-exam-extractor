@@ -1,0 +1,23 @@
+# env / secrets
+.env
+.env.local
+
+# python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# debug artefacts (kept out of the repo; per-page output/_annotated etc. are kept)
+_debug_*.png
+_num_*.png
+_q*.png
+_row*.png

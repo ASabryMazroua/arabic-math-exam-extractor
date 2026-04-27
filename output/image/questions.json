@@ -1,0 +1,174 @@
+{
+  "page_number": 8,
+  "questions": [
+    {
+      "number": 1,
+      "text_ar": "إذا كان $\\triangle ABC \\sim \\triangle EFG$ فإن ..",
+      "options": {
+        "A": "$\\angle B \\equiv \\angle C$",
+        "B": "$\\angle A \\equiv \\angle G$",
+        "C": "$\\overline{AC} \\equiv \\overline{EF}$",
+        "D": "$\\angle A \\equiv \\angle E$"
+      },
+      "correct": "D",
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    },
+    {
+      "number": 7,
+      "text_ar": "مثلثان متشابهان، أضلاع المثلث الأكبر $9, 15, 18$ نسبة التشابه بينهم $\\frac{2}{3}$، فما محيط المثلث الأصغر؟",
+      "options": {
+        "A": "12",
+        "B": "24",
+        "C": "28",
+        "D": "14"
+      },
+      "correct": "C",
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    },
+    {
+      "number": 11,
+      "text_ar": "ما صورة النقطة $B(2,3)$ الناتجة من الإزاحة $(x, y) \\rightarrow (x + 4, y - 5)$؟",
+      "options": {
+        "A": "$(6,0)$",
+        "B": "$(4,5)$",
+        "C": "$(6,-2)$",
+        "D": "$(-2,6)$"
+      },
+      "correct": "C",
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": "تكرر 2023"
+    },
+    {
+      "number": 16,
+      "text_ar": "ما محيط المثلث $ABC$؟",
+      "options": {
+        "A": "24",
+        "B": "30",
+        "C": "32",
+        "D": "36"
+      },
+      "correct": "B",
+      "has_diagram": true,
+      "diagram_region_id": 7,
+      "diagram_bbox": null,
+      "notes": "",
+      "diagram_path": "images/q16_diagram.png"
+    },
+    {
+      "number": 17,
+      "text_ar": "كم عدد أضلاع المضلع المنتظم الذي قياس زاويته الداخلية $135^\\circ$؟",
+      "options": {
+        "A": "4",
+        "B": "8",
+        "C": "5",
+        "D": "7"
+      },
+      "correct": "B",
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    },
+    {
+      "number": 18,
+      "text_ar": "سداسي منتظم صُنعَت منه شجرة مشابك بقص ستة مثلثات قائمة متساوية ومتطابقة، بحيث كانت أحرف السداسي أوزانًا في المثلثات المقطوعة، وكان $m\\angle XYZ = 45^\\circ$، أوجد $m\\angle XZR$.",
+      "options": {
+        "A": "30^\\circ",
+        "B": "45^\\circ",
+        "C": "60^\\circ",
+        "D": "50^\\circ"
+      },
+      "correct": "A",
+      "has_diagram": true,
+      "diagram_region_id": 2,
+      "diagram_bbox": null,
+      "notes": "",
+      "diagram_path": "images/q18_diagram.png"
+    },
+    {
+      "number": 26,
+      "text_ar": "قيمة $x$ في الشكل تساوي..",
+      "options": {
+        "A": "1",
+        "B": "6",
+        "C": "8",
+        "D": "المعطيات غير كافية"
+      },
+      "correct": "B",
+      "has_diagram": true,
+      "diagram_region_id": 3,
+      "diagram_bbox": null,
+      "notes": "",
+      "diagram_path": "images/q26_diagram.png"
+    },
+    {
+      "number": 27,
+      "text_ar": "في الشكل المقابل: إذا كان $m\\angle 1 = m\\angle 2$ فما قيمة $x$؟",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "6",
+        "D": "5"
+      },
+      "correct": "B",
+      "has_diagram": true,
+      "diagram_region_id": 5,
+      "diagram_bbox": null,
+      "notes": "",
+      "diagram_path": "images/q27_diagram.png"
+    },
+    {
+      "number": 46,
+      "text_ar": "في المعين $ABCD$ ما قيمة $x$؟",
+      "options": {
+        "A": "30^\\circ",
+        "B": "20^\\circ",
+        "C": "120^\\circ",
+        "D": "60^\\circ"
+      },
+      "correct": "C",
+      "has_diagram": true,
+      "diagram_region_id": 4,
+      "diagram_bbox": null,
+      "notes": "",
+      "diagram_path": "images/q46_diagram.png"
+    },
+    {
+      "number": 50,
+      "text_ar": "في المعين $ABCD$، إذا كان $AC = 10$ و $BD = 24$، فاوْجد طول ضلع المعين.",
+      "options": {
+        "A": "5",
+        "B": "8",
+        "C": "13",
+        "D": "15"
+      },
+      "correct": "C",
+      "has_diagram": true,
+      "diagram_region_id": 1,
+      "diagram_bbox": null,
+      "notes": "",
+      "diagram_path": "images/q50_diagram.png"
+    }
+  ],
+  "answer_key": {
+    "50": "C",
+    "17": "B",
+    "18": "A",
+    "26": "B",
+    "27": "B",
+    "46": "C",
+    "11": "C",
+    "16": "B",
+    "7": "C",
+    "1": "D",
+    "6": "B"
+  }
+}

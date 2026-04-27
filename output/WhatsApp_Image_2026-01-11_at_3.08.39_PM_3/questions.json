@@ -1,0 +1,98 @@
+{
+  "page_number": 20,
+  "questions": [
+    {
+      "number": 1,
+      "text_ar": "المقطع المستقيم المرسوم من مركز الدائرة إلى نقطة على الدائرة يسمى ...",
+      "options": {
+        "A": "الوتر",
+        "B": "القطر",
+        "C": "المماس",
+        "D": "نصف القطر"
+      },
+      "correct": null,
+      "has_diagram": true,
+      "diagram_region_id": 12,
+      "diagram_bbox": null,
+      "notes": "",
+      "diagram_path": "images/question_1_diagram.png"
+    },
+    {
+      "number": 2,
+      "text_ar": "الزاوية الناتجة من تقاطع مماسين من نقطة خارج الدائرة تساوي ...",
+      "options": {
+        "A": "$\\frac{1}{2}(x-y)$",
+        "B": "$x-y$",
+        "C": "$x+y$",
+        "D": "$2x$"
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    },
+    {
+      "number": 3,
+      "text_ar": "الزاوية الناتجة من تقاطع وترين داخل الدائرة تساوي ...",
+      "options": {
+        "A": "$\\frac{1}{2}(x+y)$",
+        "B": "$x+y$",
+        "C": "$x-y$",
+        "D": "$2x$"
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    },
+    {
+      "number": 4,
+      "text_ar": "الزاوية الناتجة من تقاطع قاطع مع قاطع أو قاطع مع مماس خارج الدائرة تساوي ...",
+      "options": {
+        "A": "$\\frac{1}{2}(x-y)$",
+        "B": "$x-y$",
+        "C": "$x+y$",
+        "D": "$2x$"
+      },
+      "correct": null,
+      "has_diagram": false,
+      "diagram_region_id": null,
+      "diagram_bbox": null,
+      "notes": ""
+    },
+    {
+      "number": 5,
+      "text_ar": "إذا كان $JK^2 = IK \times KM$ فإن النقطة $K$ تقع على ...",
+      "options": {
+        "A": "الوتر",
+        "B": "المماس",
+        "C": "الدائرة",
+        "D": "القطر"
+      },
+      "correct": null,
+      "has_diagram": true,
+      "diagram_region_id": 6,
+      "diagram_bbox": null,
+      "notes": "",
+      "diagram_path": "images/question_5_diagram.png"
+    },
+    {
+      "number": 6,
+      "text_ar": "إذا كان $AB \times AC = AD \times AE$ فإن النقاط $A, B, C, D, E$ تقع على ...",
+      "options": {
+        "A": "مستقيم واحد",
+        "B": "دائرة واحدة",
+        "C": "مستوي واحد",
+        "D": "مماس واحد"
+      },
+      "correct": null,
+      "has_diagram": true,
+      "diagram_region_id": 8,
+      "diagram_bbox": null,
+      "notes": "",
+      "diagram_path": "images/question_6_diagram.png"
+    }
+  ]
+}
