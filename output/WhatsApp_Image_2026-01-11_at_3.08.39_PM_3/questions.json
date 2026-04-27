@@ -27,12 +27,16 @@
       "correct": null,
       "has_diagram": true,
       "diagram_bbox": [
-        370,
-        70,
-        520,
-        170
+        0.07,
+        0.09,
+        0.41,
+        0.22
       ],
-      "notes": "يوجد رسم توضيحي لنقطة التماس ونصف القطر."
+      "notes": "يوجد رسم توضيحي لنقطة التماس ونصف القطر.",
+      "diagram_path": "images/question_1_diagram.png",
+      "diagram_kind": "single_diagram",
+      "diagram_description": "Circle with points A, B, D and a chord.",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_1_diagram.png"
     },
     {
       "number": 2,
@@ -46,12 +50,16 @@
       "correct": null,
       "has_diagram": true,
       "diagram_bbox": [
-        60,
-        60,
-        320,
-        170
+        0.57,
+        0.13,
+        0.91,
+        0.23
       ],
-      "notes": "يوجد رسم توضيحي لمماسين من نقطة خارج الدائرة."
+      "notes": "يوجد رسم توضيحي لمماسين من نقطة خارج الدائرة.",
+      "diagram_path": "images/question_2_diagram.png",
+      "diagram_kind": "single_diagram",
+      "diagram_description": "Circle with a radius and a perpendicular tangent line labeled S and T.",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_2_diagram.png"
     },
     {
       "number": 3,
@@ -63,9 +71,18 @@
         "D": ""
       },
       "correct": null,
-      "has_diagram": false,
-      "diagram_bbox": null,
-      "notes": ""
+      "has_diagram": true,
+      "diagram_bbox": [
+        0.57,
+        0.32,
+        0.91,
+        0.41
+      ],
+      "notes": "",
+      "diagram_path": "images/question_3_diagram.png",
+      "diagram_kind": "single_diagram",
+      "diagram_description": "Two circles each with a chord and labeled points, showing equal segments.",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_3_diagram.png"
     },
     {
       "number": 4,
@@ -79,12 +96,16 @@
       "correct": null,
       "has_diagram": true,
       "diagram_bbox": [
-        370,
-        220,
-        520,
-        320
+        0.57,
+        0.47,
+        0.91,
+        0.56
       ],
-      "notes": "يوجد رسم توضيحي لوترين متقاطعين داخل دائرة."
+      "notes": "يوجد رسم توضيحي لوترين متقاطعين داخل دائرة.",
+      "diagram_path": "images/question_4_diagram.png",
+      "diagram_kind": "single_diagram",
+      "diagram_description": "Two circles each with intersecting chords and labeled points, showing equal angles.",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_4_diagram.png"
     },
     {
       "number": 5,
@@ -96,14 +117,10 @@
         "D": ""
       },
       "correct": null,
-      "has_diagram": true,
-      "diagram_bbox": [
-        60,
-        220,
-        320,
-        320
-      ],
-      "notes": "يوجد رسم توضيحي لوترين متقاطعين خارج دائرة."
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "يوجد رسم توضيحي لوترين متقاطعين خارج دائرة.",
+      "diagram_path": ""
     },
     {
       "number": 6,
@@ -115,14 +132,12 @@
         "D": ""
       },
       "correct": null,
-      "has_diagram": true,
-      "diagram_bbox": [
-        60,
-        340,
-        320,
-        420
-      ],
-      "notes": "يوجد رسم توضيحي لأوتار في دائرة."
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "يوجد رسم توضيحي لأوتار في دائرة.",
+      "diagram_path": "",
+      "diagram_kind": "single_diagram",
+      "diagram_description": "Circle with intersecting chords AB, AC, AD, AE, and another circle with intersecting chords AB, BC, EB, BD."
     },
     {
       "number": 7,
@@ -136,12 +151,16 @@
       "correct": null,
       "has_diagram": true,
       "diagram_bbox": [
-        370,
-        340,
-        520,
-        420
+        0.57,
+        0.75,
+        0.91,
+        0.86
       ],
-      "notes": "يوجد رسم توضيحي لأوتار متقاطعة."
+      "notes": "يوجد رسم توضيحي لأوتار متقاطعة.",
+      "diagram_path": "images/question_7_diagram.png",
+      "diagram_kind": "single_diagram",
+      "diagram_description": "Circle with points A, B, C, D, E and colored segments showing intersecting chords.",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_7_diagram.png"
     },
     {
       "number": 8,
@@ -153,14 +172,10 @@
         "D": ""
       },
       "correct": null,
-      "has_diagram": true,
-      "diagram_bbox": [
-        570,
-        340,
-        720,
-        420
-      ],
-      "notes": "يوجد رسم توضيحي لأوتار متقاطعة."
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "يوجد رسم توضيحي لأوتار متقاطعة.",
+      "diagram_path": ""
     }
   ],
   "quality_notes": "الصفحة تحتوي على ملخصات وقوانين مع رسومات توضيحية، لا توجد اختيارات أو مفتاح إجابة، وتم استخراج كل بند كعنصر سؤال منفصل.",

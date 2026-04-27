@@ -40,8 +40,6 @@
 - **C.** 32
 - **D.** 24
 
-![Q16 diagram](images/question_16_diagram.png)
-
 ## Q17
 
 كم عدد أضلاع المضلع المنتظم الذي قياس زاويته الداخلية 135°؟
@@ -59,8 +57,6 @@
 - **B.** 45°
 - **C.** 60°
 - **D.** 50°
-
-![Q18 diagram](images/question_18_diagram.png)
 
 ## Q26
 
@@ -194,8 +190,6 @@
 - **C.** 3
 - **D.** 4
 
-![Q9 diagram](images/question_9_diagram.png)
-
 
 # WhatsApp_Image_2026-01-11_at_3.08.38_PM_1
 
@@ -209,6 +203,8 @@
 - **B.** 
 - **C.** 
 - **D.** 
+
+![Q1 diagram](images/question_1_diagram.png)
 
 ## Q2
 
@@ -384,8 +380,6 @@ y = \arcsin(b\theta)
 - **C.** 
 - **D.** 
 
-![Q19 diagram](images/block_def4_diagram.png)
-
 ## Q20
 
 الدوال العكسية كجدول الدوال الدائرية
@@ -398,8 +392,6 @@ y = \arccos(b\theta)
 - **C.** 
 - **D.** 
 
-![Q20 diagram](images/block_def5_diagram.png)
-
 ## Q21
 
 الدوال العكسية كجدول الدوال الدائرية
@@ -411,8 +403,6 @@ y = \arctan(b\theta)
 - **B.** 
 - **C.** 
 - **D.** 
-
-![Q21 diagram](images/block_def6_diagram.png)
 
 
 # WhatsApp_Image_2026-01-11_at_3.08.38_PM
@@ -428,6 +418,8 @@ y = \arctan(b\theta)
 - **C.** الرسم الثالث (الدالة غير معرفة عند x)
 - **D.** غير واضح في الصورة
 
+![Q1 diagram](images/question_1_diagram.png)
+
 ## Q2
 
 ما سبب عدم وجود النهاية في الرسم البياني المجاور؟
@@ -437,6 +429,8 @@ y = \arctan(b\theta)
 - **C.** غير معرفة
 - **D.** غير واضح في الصورة
 
+![Q2 diagram](images/question_2_diagram.png)
+
 ## Q3
 
 كلما اقتربت الدالة من الصفر، تقترب الدالة بقيمتين شديدتي السلوك التذبذبي.
@@ -445,6 +439,8 @@ y = \arctan(b\theta)
 - **B.** 
 - **C.** 
 - **D.** 
+
+![Q3 diagram](images/question_3_diagram.png)
 
 ## Q4
 
@@ -499,6 +495,8 @@ lim_{x \to \infty} f(x) = 0, \quad lim_{x \to -\infty} f(x) = 0
 - **C.** 
 - **D.** 
 
+![Q1 diagram](images/question_1_diagram.png)
+
 ## Q2
 
 لها 3 أصفار حقيقية
@@ -540,6 +538,8 @@ lim_{x \to \infty} f(x) = 0, \quad lim_{x \to -\infty} f(x) = 0
 - **C.** 
 - **D.** 
 
+![Q1 diagram](images/question_1_diagram.png)
+
 ## Q2
 
 المقاطع المماسات المرسومان من نقطة خارج دائرة متطابقان.
@@ -548,6 +548,8 @@ lim_{x \to \infty} f(x) = 0, \quad lim_{x \to -\infty} f(x) = 0
 - **B.** 
 - **C.** 
 - **D.** 
+
+![Q2 diagram](images/question_2_diagram.png)
 
 ## Q3
 
@@ -559,6 +561,8 @@ m∠1 = \frac{1}{2}x
 - **C.** 
 - **D.** 
 
+![Q3 diagram](images/question_3_diagram.png)
+
 ## Q4
 
 الزاوية الناتجة من تقاطع وترين داخل الدائرة
@@ -568,6 +572,8 @@ m∠1 = \frac{1}{2}(x + y)
 - **B.** 
 - **C.** 
 - **D.** 
+
+![Q4 diagram](images/question_4_diagram.png)
 
 ## Q5
 
@@ -596,6 +602,8 @@ AB × AC = AD × AE
 - **B.** 
 - **C.** 
 - **D.** 
+
+![Q7 diagram](images/question_7_diagram.png)
 
 ## Q8
 

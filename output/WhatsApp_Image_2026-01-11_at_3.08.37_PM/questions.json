@@ -38,14 +38,16 @@
       "correct": "B",
       "has_diagram": true,
       "diagram_bbox": [
-        0.08,
-        0.08,
-        0.92,
-        0.19
+        0.13,
+        0.13,
+        0.87,
+        0.23
       ],
       "notes": "كل الخيارات رسومات بيانية.",
       "diagram_path": "images/question_1_diagram.png",
-      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_1_diagram.png"
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_1_diagram.png",
+      "diagram_kind": "four_option_graphs",
+      "diagram_description": "A strip containing four different function graphs labeled (A), (B), (C), (D) as options for question 1."
     },
     {
       "number": 2,
@@ -59,7 +61,8 @@
       "correct": "B",
       "has_diagram": false,
       "diagram_bbox": null,
-      "notes": ""
+      "notes": "",
+      "diagram_path": ""
     },
     {
       "number": 3,
@@ -73,7 +76,8 @@
       "correct": "D",
       "has_diagram": false,
       "diagram_bbox": null,
-      "notes": ""
+      "notes": "",
+      "diagram_path": ""
     },
     {
       "number": 4,
@@ -87,7 +91,8 @@
       "correct": "C",
       "has_diagram": false,
       "diagram_bbox": null,
-      "notes": ""
+      "notes": "",
+      "diagram_path": ""
     },
     {
       "number": 5,
@@ -101,7 +106,8 @@
       "correct": "A",
       "has_diagram": false,
       "diagram_bbox": null,
-      "notes": ""
+      "notes": "",
+      "diagram_path": ""
     },
     {
       "number": 6,
@@ -115,7 +121,8 @@
       "correct": "C",
       "has_diagram": false,
       "diagram_bbox": null,
-      "notes": ""
+      "notes": "",
+      "diagram_path": ""
     },
     {
       "number": 7,
@@ -129,7 +136,8 @@
       "correct": "B",
       "has_diagram": false,
       "diagram_bbox": null,
-      "notes": ""
+      "notes": "",
+      "diagram_path": ""
     },
     {
       "number": 8,
@@ -143,7 +151,8 @@
       "correct": "C",
       "has_diagram": false,
       "diagram_bbox": null,
-      "notes": ""
+      "notes": "",
+      "diagram_path": ""
     },
     {
       "number": 9,
@@ -155,16 +164,13 @@
         "D": "4"
       },
       "correct": "B",
-      "has_diagram": true,
-      "diagram_bbox": [
-        0.08,
-        0.62,
-        0.55,
-        0.92
-      ],
+      "has_diagram": false,
+      "diagram_bbox": null,
       "notes": "الخيار يحتوي على رسم بياني واحد.",
-      "diagram_path": "images/question_9_diagram.png",
-      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_9_diagram.png"
+      "diagram_path": "",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_9_diagram.png",
+      "diagram_kind": "single_diagram",
+      "diagram_description": "A mathematical graph with axes and a curve labeled f(x), used for question 9."
     }
   ],
   "quality_notes": "تم استخراج جميع الأسئلة والخيارات بشكل واضح، مع وجود مفتاح الإجابة. تم الحفاظ على ترتيب الأسئلة والخيارات. تم تحديد الرسومات البيانية بدقة.",

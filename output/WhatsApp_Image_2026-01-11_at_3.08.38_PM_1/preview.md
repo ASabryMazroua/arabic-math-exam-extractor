@@ -9,6 +9,8 @@
 - **C.** 
 - **D.** 
 
+![Q1 diagram](images/question_1_diagram.png)
+
 ## Q2
 
 \sin^2 \theta + \cos^2 \theta = 1
@@ -183,8 +185,6 @@ y = \arcsin(b\theta)
 - **C.** 
 - **D.** 
 
-![Q19 diagram](images/block_def4_diagram.png)
-
 ## Q20
 
 الدوال العكسية كجدول الدوال الدائرية
@@ -197,8 +197,6 @@ y = \arccos(b\theta)
 - **C.** 
 - **D.** 
 
-![Q20 diagram](images/block_def5_diagram.png)
-
 ## Q21
 
 الدوال العكسية كجدول الدوال الدائرية
@@ -210,5 +208,3 @@ y = \arctan(b\theta)
 - **B.** 
 - **C.** 
 - **D.** 
-
-![Q21 diagram](images/block_def6_diagram.png)

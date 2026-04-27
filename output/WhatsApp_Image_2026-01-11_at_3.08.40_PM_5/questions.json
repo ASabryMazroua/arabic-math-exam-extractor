@@ -24,7 +24,8 @@
       "correct": null,
       "has_diagram": false,
       "diagram_bbox": null,
-      "notes": "بطاقة تعريفية عن الوحدة التخيلية i"
+      "notes": "بطاقة تعريفية عن الوحدة التخيلية i",
+      "diagram_path": ""
     },
     {
       "number": 2,
@@ -38,7 +39,8 @@
       "correct": null,
       "has_diagram": false,
       "diagram_bbox": null,
-      "notes": "تعريف الصورة الجبرية للعدد المركب"
+      "notes": "تعريف الصورة الجبرية للعدد المركب",
+      "diagram_path": ""
     },
     {
       "number": 3,
@@ -52,7 +54,8 @@
       "correct": null,
       "has_diagram": false,
       "diagram_bbox": null,
-      "notes": "تعريف الصورة القطبية للعدد المركب"
+      "notes": "تعريف الصورة القطبية للعدد المركب",
+      "diagram_path": ""
     },
     {
       "number": 4,
@@ -66,7 +69,8 @@
       "correct": null,
       "has_diagram": false,
       "diagram_bbox": null,
-      "notes": "نظرية ديموافر للضرب والقسمة والأس"
+      "notes": "نظرية ديموافر للضرب والقسمة والأس",
+      "diagram_path": ""
     },
     {
       "number": 5,
@@ -80,7 +84,8 @@
       "correct": null,
       "has_diagram": false,
       "diagram_bbox": null,
-      "notes": "نظرية ديموافر للجذور النونية"
+      "notes": "نظرية ديموافر للجذور النونية",
+      "diagram_path": ""
     }
   ],
   "quality_notes": "الصفحة تحتوي على بطاقات تعريفية ونظريات بدون أسئلة اختيار من متعدد أو خيارات إجابة واضحة. لا يوجد مفتاح إجابة ظاهر.",

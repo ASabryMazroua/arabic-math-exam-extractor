@@ -23,12 +23,16 @@
       "correct": null,
       "has_diagram": true,
       "diagram_bbox": [
-        35,
-        670,
-        170,
-        800
+        0.08,
+        0.68,
+        0.92,
+        0.92
       ],
-      "notes": "رسم بياني لدالة تقطع المحور x في نقطة واحدة"
+      "notes": "رسم بياني لدالة تقطع المحور x في نقطة واحدة",
+      "diagram_path": "images/question_1_diagram.png",
+      "diagram_kind": "four_option_graphs",
+      "diagram_description": "A horizontal strip containing four mathematical graphs, each illustrating different polynomial functions with axes labeled f(x) and x, and Arabic annotations below each graph.",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_2_question_1_diagram.png"
     },
     {
       "number": 2,
@@ -40,14 +44,10 @@
         "D": ""
       },
       "correct": null,
-      "has_diagram": true,
-      "diagram_bbox": [
-        200,
-        670,
-        340,
-        800
-      ],
-      "notes": "رسم بياني لدالة تقطع المحور x في ثلاث نقاط"
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "رسم بياني لدالة تقطع المحور x في ثلاث نقاط",
+      "diagram_path": ""
     },
     {
       "number": 3,
@@ -59,14 +59,10 @@
         "D": ""
       },
       "correct": null,
-      "has_diagram": true,
-      "diagram_bbox": [
-        370,
-        670,
-        510,
-        800
-      ],
-      "notes": "رسم بياني لدالة تقطع المحور x في أربع نقاط"
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "رسم بياني لدالة تقطع المحور x في أربع نقاط",
+      "diagram_path": ""
     },
     {
       "number": 4,
@@ -78,14 +74,10 @@
         "D": ""
       },
       "correct": null,
-      "has_diagram": true,
-      "diagram_bbox": [
-        540,
-        670,
-        680,
-        800
-      ],
-      "notes": "رسم بياني لدالة لا تقطع المحور x"
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "رسم بياني لدالة لا تقطع المحور x",
+      "diagram_path": ""
     }
   ],
   "quality_notes": "الصفحة تحتوي على أمثلة وشروحات نظرية بالإضافة إلى أربعة رسومات بيانية كل منها يمثل سؤالاً حول عدد الأصفار الحقيقية للدوال. لا توجد خيارات أو مفتاح إجابة ظاهر.",

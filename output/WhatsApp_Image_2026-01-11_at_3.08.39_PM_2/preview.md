@@ -9,6 +9,8 @@
 - **C.** 
 - **D.** 
 
+![Q1 diagram](images/question_1_diagram.png)
+
 ## Q2
 
 لها 3 أصفار حقيقية

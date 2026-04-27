@@ -26,12 +26,16 @@
       "correct": null,
       "has_diagram": true,
       "diagram_bbox": [
-        60,
-        90,
-        700,
-        220
+        0.05,
+        0.08,
+        0.95,
+        0.22
       ],
-      "notes": "ثلاث رسومات بيانية توضح حالات اتصال وعدم اتصال الدالة."
+      "notes": "ثلاث رسومات بيانية توضح حالات اتصال وعدم اتصال الدالة.",
+      "diagram_path": "images/question_1_diagram.png",
+      "diagram_kind": "single_diagram",
+      "diagram_description": "Three graphs of functions showing different behaviors of limits, each with labeled axes and function notation.",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_question_1_diagram.png"
     },
     {
       "number": 2,
@@ -45,12 +49,16 @@
       "correct": null,
       "has_diagram": true,
       "diagram_bbox": [
-        70,
-        250,
-        220,
-        370
+        0.05,
+        0.32,
+        0.48,
+        0.46
       ],
-      "notes": "رسم بياني لدالة غير معرفة عند x=1."
+      "notes": "رسم بياني لدالة غير معرفة عند x=1.",
+      "diagram_path": "images/question_2_diagram.png",
+      "diagram_kind": "single_diagram",
+      "diagram_description": "Graph of a function with vertical lines and labeled axes, illustrating reasons for non-existence of limits.",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_question_2_diagram.png"
     },
     {
       "number": 3,
@@ -62,9 +70,18 @@
         "D": ""
       },
       "correct": null,
-      "has_diagram": false,
-      "diagram_bbox": null,
-      "notes": "ملاحظة نظرية حول سلوك الدالة."
+      "has_diagram": true,
+      "diagram_bbox": [
+        0.52,
+        0.32,
+        0.95,
+        0.46
+      ],
+      "notes": "ملاحظة نظرية حول سلوك الدالة.",
+      "diagram_path": "images/question_3_diagram.png",
+      "diagram_kind": "single_diagram",
+      "diagram_description": "Graph of a function with a curve and labeled axes, illustrating reasons for non-existence of limits.",
+      "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_question_3_diagram.png"
     },
     {
       "number": 4,
@@ -76,14 +93,12 @@
         "D": ""
       },
       "correct": null,
-      "has_diagram": true,
-      "diagram_bbox": [
-        250,
-        250,
-        400,
-        370
-      ],
-      "notes": "رسم بياني لدالة تقترب من المالانهاية من جهة وسالب مالانهاية من الجهة الأخرى."
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "رسم بياني لدالة تقترب من المالانهاية من جهة وسالب مالانهاية من الجهة الأخرى.",
+      "diagram_path": "",
+      "diagram_kind": "single_diagram",
+      "diagram_description": "Graph of a function with vertical asymptote and shaded region."
     },
     {
       "number": 5,
@@ -97,7 +112,10 @@
       "correct": null,
       "has_diagram": false,
       "diagram_bbox": null,
-      "notes": "سؤال عن نهاية دالة عند الصفر من اليمين واليسار."
+      "notes": "سؤال عن نهاية دالة عند الصفر من اليمين واليسار.",
+      "diagram_path": "",
+      "diagram_kind": "single_diagram",
+      "diagram_description": "Graph of a function with two branches and vertical/horizontal asymptotes."
     },
     {
       "number": 6,
@@ -111,7 +129,8 @@
       "correct": null,
       "has_diagram": false,
       "diagram_bbox": null,
-      "notes": "سؤال عن نهاية دالة عند الصفر من اليمين واليسار."
+      "notes": "سؤال عن نهاية دالة عند الصفر من اليمين واليسار.",
+      "diagram_path": ""
     },
     {
       "number": 7,
@@ -123,14 +142,10 @@
         "D": ""
       },
       "correct": null,
-      "has_diagram": true,
-      "diagram_bbox": [
-        70,
-        420,
-        220,
-        540
-      ],
-      "notes": "رسم بياني لدالة تقترب من الصفر عند الطرفين."
+      "has_diagram": false,
+      "diagram_bbox": null,
+      "notes": "رسم بياني لدالة تقترب من الصفر عند الطرفين.",
+      "diagram_path": ""
     }
   ],
   "quality_notes": "الصفحة تحتوي على شروحات نظرية ورسومات بيانية مع أسئلة قصيرة أو ملاحظات، لا توجد خيارات واضحة لكل سؤال، ولا يوجد جدول إجابات.",

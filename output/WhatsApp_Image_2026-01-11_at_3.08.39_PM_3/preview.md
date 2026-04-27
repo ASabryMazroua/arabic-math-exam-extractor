@@ -9,6 +9,8 @@
 - **C.** 
 - **D.** 
 
+![Q1 diagram](images/question_1_diagram.png)
+
 ## Q2
 
 المقاطع المماسات المرسومان من نقطة خارج دائرة متطابقان.
@@ -17,6 +19,8 @@
 - **B.** 
 - **C.** 
 - **D.** 
+
+![Q2 diagram](images/question_2_diagram.png)
 
 ## Q3
 
@@ -28,6 +32,8 @@ m∠1 = \frac{1}{2}x
 - **C.** 
 - **D.** 
 
+![Q3 diagram](images/question_3_diagram.png)
+
 ## Q4
 
 الزاوية الناتجة من تقاطع وترين داخل الدائرة
@@ -37,6 +43,8 @@ m∠1 = \frac{1}{2}(x + y)
 - **B.** 
 - **C.** 
 - **D.** 
+
+![Q4 diagram](images/question_4_diagram.png)
 
 ## Q5
 
@@ -65,6 +73,8 @@ AB × AC = AD × AE
 - **B.** 
 - **C.** 
 - **D.** 
+
+![Q7 diagram](images/question_7_diagram.png)
 
 ## Q8
 

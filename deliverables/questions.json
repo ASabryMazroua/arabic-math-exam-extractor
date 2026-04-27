@@ -44,7 +44,8 @@
           "correct": "A",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 7,
@@ -58,7 +59,8 @@
           "correct": "D",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 11,
@@ -72,7 +74,8 @@
           "correct": "C",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 16,
@@ -84,15 +87,10 @@
             "D": "24"
           },
           "correct": "B",
-          "has_diagram": true,
-          "diagram_bbox": [
-            0.05,
-            0.6,
-            0.35,
-            0.75
-          ],
+          "has_diagram": false,
+          "diagram_bbox": null,
           "notes": "",
-          "diagram_path": "images/question_16_diagram.png",
+          "diagram_path": "",
           "deliverable_image": "image_question_16_diagram.png"
         },
         {
@@ -107,7 +105,8 @@
           "correct": "C",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 18,
@@ -119,16 +118,13 @@
             "D": "50°"
           },
           "correct": "A",
-          "has_diagram": true,
-          "diagram_bbox": [
-            0.55,
-            0.18,
-            0.85,
-            0.38
-          ],
+          "has_diagram": false,
+          "diagram_bbox": null,
           "notes": "",
-          "diagram_path": "images/question_18_diagram.png",
-          "deliverable_image": "image_question_18_diagram.png"
+          "diagram_path": "",
+          "deliverable_image": "image_question_18_diagram.png",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "A star-shaped polygon with labeled vertices and angles."
         },
         {
           "number": 26,
@@ -142,14 +138,16 @@
           "correct": "B",
           "has_diagram": true,
           "diagram_bbox": [
-            0.05,
-            0.38,
-            0.35,
-            0.55
+            0.06,
+            0.26,
+            0.28,
+            0.41
           ],
           "notes": "",
           "diagram_path": "images/question_26_diagram.png",
-          "deliverable_image": "image_question_26_diagram.png"
+          "deliverable_image": "image_question_26_diagram.png",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "A triangle with labeled sides and angles, numbers on sides."
         },
         {
           "number": 27,
@@ -163,14 +161,16 @@
           "correct": "A",
           "has_diagram": true,
           "diagram_bbox": [
-            0.05,
-            0.18,
-            0.35,
-            0.35
+            0.06,
+            0.44,
+            0.28,
+            0.59
           ],
           "notes": "",
           "diagram_path": "images/question_27_diagram.png",
-          "deliverable_image": "image_question_27_diagram.png"
+          "deliverable_image": "image_question_27_diagram.png",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "A triangle with labeled vertices and sides, numbers on sides."
         },
         {
           "number": 46,
@@ -184,14 +184,16 @@
           "correct": "C",
           "has_diagram": true,
           "diagram_bbox": [
-            0.55,
-            0.38,
-            0.85,
-            0.55
+            0.54,
+            0.41,
+            0.93,
+            0.56
           ],
           "notes": "",
           "diagram_path": "images/question_46_diagram.png",
-          "deliverable_image": "image_question_46_diagram.png"
+          "deliverable_image": "image_question_46_diagram.png",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "A parallelogram with labeled vertices and angles."
         },
         {
           "number": 50,
@@ -205,14 +207,16 @@
           "correct": "C",
           "has_diagram": true,
           "diagram_bbox": [
-            0.55,
-            0.6,
-            0.85,
-            0.75
+            0.06,
+            0.07,
+            0.28,
+            0.22
           ],
           "notes": "",
           "diagram_path": "images/question_50_diagram.png",
-          "deliverable_image": "image_question_50_diagram.png"
+          "deliverable_image": "image_question_50_diagram.png",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "A quadrilateral (ABCD) with diagonals drawn, labeled points and sides."
         }
       ],
       "quality_notes": "تم استخراج جميع الأسئلة بوضوح مع مطابقة الإجابات الصحيحة من جدول الإجابة المظلل. تم تحديد مربعات الرسوم التوضيحية بشكل تقريبي حسب أماكنها النسبية.",
@@ -260,14 +264,16 @@
           "correct": "B",
           "has_diagram": true,
           "diagram_bbox": [
-            0.08,
-            0.08,
-            0.92,
-            0.19
+            0.13,
+            0.13,
+            0.87,
+            0.23
           ],
           "notes": "كل الخيارات رسومات بيانية.",
           "diagram_path": "images/question_1_diagram.png",
-          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_1_diagram.png"
+          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_1_diagram.png",
+          "diagram_kind": "four_option_graphs",
+          "diagram_description": "A strip containing four different function graphs labeled (A), (B), (C), (D) as options for question 1."
         },
         {
           "number": 2,
@@ -281,7 +287,8 @@
           "correct": "B",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 3,
@@ -295,7 +302,8 @@
           "correct": "D",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 4,
@@ -309,7 +317,8 @@
           "correct": "C",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 5,
@@ -323,7 +332,8 @@
           "correct": "A",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 6,
@@ -337,7 +347,8 @@
           "correct": "C",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 7,
@@ -351,7 +362,8 @@
           "correct": "B",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 8,
@@ -365,7 +377,8 @@
           "correct": "C",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 9,
@@ -377,16 +390,13 @@
             "D": "4"
           },
           "correct": "B",
-          "has_diagram": true,
-          "diagram_bbox": [
-            0.08,
-            0.62,
-            0.55,
-            0.92
-          ],
+          "has_diagram": false,
+          "diagram_bbox": null,
           "notes": "الخيار يحتوي على رسم بياني واحد.",
-          "diagram_path": "images/question_9_diagram.png",
-          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_9_diagram.png"
+          "diagram_path": "",
+          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.37_PM_question_9_diagram.png",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "A mathematical graph with axes and a curve labeled f(x), used for question 9."
         }
       ],
       "quality_notes": "تم استخراج جميع الأسئلة والخيارات بشكل واضح، مع وجود مفتاح الإجابة. تم الحفاظ على ترتيب الأسئلة والخيارات. تم تحديد الرسومات البيانية بدقة.",
@@ -410,9 +420,18 @@
             "D": ""
           },
           "correct": null,
-          "has_diagram": false,
-          "diagram_bbox": null,
-          "notes": "section"
+          "has_diagram": true,
+          "diagram_bbox": [
+            0.1,
+            0.1,
+            0.9,
+            0.22
+          ],
+          "notes": "section",
+          "diagram_path": "images/question_1_diagram.png",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "Graph of y = sin(theta) with labeled axes and points",
+          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_1_diagram.png"
         },
         {
           "number": 2,
@@ -426,7 +445,10 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "identity"
+          "notes": "identity",
+          "diagram_path": "",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "Graph of y = cos(θ) showing periodic wave with labeled axes and points."
         },
         {
           "number": 3,
@@ -440,7 +462,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "identity"
+          "notes": "identity",
+          "diagram_path": ""
         },
         {
           "number": 4,
@@ -454,7 +477,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "identity"
+          "notes": "identity",
+          "diagram_path": ""
         },
         {
           "number": 5,
@@ -468,7 +492,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "identity"
+          "notes": "identity",
+          "diagram_path": ""
         },
         {
           "number": 6,
@@ -482,7 +507,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "identity"
+          "notes": "identity",
+          "diagram_path": ""
         },
         {
           "number": 7,
@@ -496,7 +522,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "identity"
+          "notes": "identity",
+          "diagram_path": ""
         },
         {
           "number": 8,
@@ -510,7 +537,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "identity"
+          "notes": "identity",
+          "diagram_path": ""
         },
         {
           "number": 9,
@@ -524,7 +552,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "identity"
+          "notes": "identity",
+          "diagram_path": ""
         },
         {
           "number": 10,
@@ -538,7 +567,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "identity"
+          "notes": "identity",
+          "diagram_path": ""
         },
         {
           "number": 11,
@@ -552,7 +582,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "rule"
+          "notes": "rule",
+          "diagram_path": ""
         },
         {
           "number": 12,
@@ -566,7 +597,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "identity"
+          "notes": "identity",
+          "diagram_path": ""
         },
         {
           "number": 13,
@@ -580,7 +612,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "identity"
+          "notes": "identity",
+          "diagram_path": ""
         },
         {
           "number": 14,
@@ -594,7 +627,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "identity"
+          "notes": "identity",
+          "diagram_path": ""
         },
         {
           "number": 15,
@@ -608,7 +642,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "rule"
+          "notes": "rule",
+          "diagram_path": ""
         },
         {
           "number": 16,
@@ -622,7 +657,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "definition"
+          "notes": "definition",
+          "diagram_path": ""
         },
         {
           "number": 17,
@@ -636,7 +672,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "definition"
+          "notes": "definition",
+          "diagram_path": ""
         },
         {
           "number": 18,
@@ -650,7 +687,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "definition"
+          "notes": "definition",
+          "diagram_path": ""
         },
         {
           "number": 19,
@@ -662,15 +700,10 @@
             "D": ""
           },
           "correct": null,
-          "has_diagram": true,
-          "diagram_bbox": [
-            0.13,
-            0.38,
-            0.38,
-            0.57
-          ],
+          "has_diagram": false,
+          "diagram_bbox": null,
           "notes": "definition",
-          "diagram_path": "images/block_def4_diagram.png",
+          "diagram_path": "",
           "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_19_diagram.png"
         },
         {
@@ -683,15 +716,10 @@
             "D": ""
           },
           "correct": null,
-          "has_diagram": true,
-          "diagram_bbox": [
-            0.41,
-            0.38,
-            0.66,
-            0.57
-          ],
+          "has_diagram": false,
+          "diagram_bbox": null,
           "notes": "definition",
-          "diagram_path": "images/block_def5_diagram.png",
+          "diagram_path": "",
           "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_20_diagram.png"
         },
         {
@@ -704,15 +732,10 @@
             "D": ""
           },
           "correct": null,
-          "has_diagram": true,
-          "diagram_bbox": [
-            0.69,
-            0.38,
-            0.93,
-            0.57
-          ],
+          "has_diagram": false,
+          "diagram_bbox": null,
           "notes": "definition",
-          "diagram_path": "images/block_def6_diagram.png",
+          "diagram_path": "",
           "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_1_question_21_diagram.png"
         }
       ],
@@ -773,12 +796,16 @@
           "correct": null,
           "has_diagram": true,
           "diagram_bbox": [
-            60,
-            90,
-            700,
-            220
+            0.05,
+            0.08,
+            0.95,
+            0.22
           ],
-          "notes": "ثلاث رسومات بيانية توضح حالات اتصال وعدم اتصال الدالة."
+          "notes": "ثلاث رسومات بيانية توضح حالات اتصال وعدم اتصال الدالة.",
+          "diagram_path": "images/question_1_diagram.png",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "Three graphs of functions showing different behaviors of limits, each with labeled axes and function notation.",
+          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_question_1_diagram.png"
         },
         {
           "number": 2,
@@ -792,12 +819,16 @@
           "correct": null,
           "has_diagram": true,
           "diagram_bbox": [
-            70,
-            250,
-            220,
-            370
+            0.05,
+            0.32,
+            0.48,
+            0.46
           ],
-          "notes": "رسم بياني لدالة غير معرفة عند x=1."
+          "notes": "رسم بياني لدالة غير معرفة عند x=1.",
+          "diagram_path": "images/question_2_diagram.png",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "Graph of a function with vertical lines and labeled axes, illustrating reasons for non-existence of limits.",
+          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_question_2_diagram.png"
         },
         {
           "number": 3,
@@ -809,9 +840,18 @@
             "D": ""
           },
           "correct": null,
-          "has_diagram": false,
-          "diagram_bbox": null,
-          "notes": "ملاحظة نظرية حول سلوك الدالة."
+          "has_diagram": true,
+          "diagram_bbox": [
+            0.52,
+            0.32,
+            0.95,
+            0.46
+          ],
+          "notes": "ملاحظة نظرية حول سلوك الدالة.",
+          "diagram_path": "images/question_3_diagram.png",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "Graph of a function with a curve and labeled axes, illustrating reasons for non-existence of limits.",
+          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.38_PM_question_3_diagram.png"
         },
         {
           "number": 4,
@@ -823,14 +863,12 @@
             "D": ""
           },
           "correct": null,
-          "has_diagram": true,
-          "diagram_bbox": [
-            250,
-            250,
-            400,
-            370
-          ],
-          "notes": "رسم بياني لدالة تقترب من المالانهاية من جهة وسالب مالانهاية من الجهة الأخرى."
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "رسم بياني لدالة تقترب من المالانهاية من جهة وسالب مالانهاية من الجهة الأخرى.",
+          "diagram_path": "",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "Graph of a function with vertical asymptote and shaded region."
         },
         {
           "number": 5,
@@ -844,7 +882,10 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "سؤال عن نهاية دالة عند الصفر من اليمين واليسار."
+          "notes": "سؤال عن نهاية دالة عند الصفر من اليمين واليسار.",
+          "diagram_path": "",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "Graph of a function with two branches and vertical/horizontal asymptotes."
         },
         {
           "number": 6,
@@ -858,7 +899,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "سؤال عن نهاية دالة عند الصفر من اليمين واليسار."
+          "notes": "سؤال عن نهاية دالة عند الصفر من اليمين واليسار.",
+          "diagram_path": ""
         },
         {
           "number": 7,
@@ -870,14 +912,10 @@
             "D": ""
           },
           "correct": null,
-          "has_diagram": true,
-          "diagram_bbox": [
-            70,
-            420,
-            220,
-            540
-          ],
-          "notes": "رسم بياني لدالة تقترب من الصفر عند الطرفين."
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "رسم بياني لدالة تقترب من الصفر عند الطرفين.",
+          "diagram_path": ""
         }
       ],
       "quality_notes": "الصفحة تحتوي على شروحات نظرية ورسومات بيانية مع أسئلة قصيرة أو ملاحظات، لا توجد خيارات واضحة لكل سؤال، ولا يوجد جدول إجابات.",
@@ -910,12 +948,16 @@
           "correct": null,
           "has_diagram": true,
           "diagram_bbox": [
-            35,
-            670,
-            170,
-            800
+            0.08,
+            0.68,
+            0.92,
+            0.92
           ],
-          "notes": "رسم بياني لدالة تقطع المحور x في نقطة واحدة"
+          "notes": "رسم بياني لدالة تقطع المحور x في نقطة واحدة",
+          "diagram_path": "images/question_1_diagram.png",
+          "diagram_kind": "four_option_graphs",
+          "diagram_description": "A horizontal strip containing four mathematical graphs, each illustrating different polynomial functions with axes labeled f(x) and x, and Arabic annotations below each graph.",
+          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_2_question_1_diagram.png"
         },
         {
           "number": 2,
@@ -927,14 +969,10 @@
             "D": ""
           },
           "correct": null,
-          "has_diagram": true,
-          "diagram_bbox": [
-            200,
-            670,
-            340,
-            800
-          ],
-          "notes": "رسم بياني لدالة تقطع المحور x في ثلاث نقاط"
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "رسم بياني لدالة تقطع المحور x في ثلاث نقاط",
+          "diagram_path": ""
         },
         {
           "number": 3,
@@ -946,14 +984,10 @@
             "D": ""
           },
           "correct": null,
-          "has_diagram": true,
-          "diagram_bbox": [
-            370,
-            670,
-            510,
-            800
-          ],
-          "notes": "رسم بياني لدالة تقطع المحور x في أربع نقاط"
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "رسم بياني لدالة تقطع المحور x في أربع نقاط",
+          "diagram_path": ""
         },
         {
           "number": 4,
@@ -965,14 +999,10 @@
             "D": ""
           },
           "correct": null,
-          "has_diagram": true,
-          "diagram_bbox": [
-            540,
-            670,
-            680,
-            800
-          ],
-          "notes": "رسم بياني لدالة لا تقطع المحور x"
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "رسم بياني لدالة لا تقطع المحور x",
+          "diagram_path": ""
         }
       ],
       "quality_notes": "الصفحة تحتوي على أمثلة وشروحات نظرية بالإضافة إلى أربعة رسومات بيانية كل منها يمثل سؤالاً حول عدد الأصفار الحقيقية للدوال. لا توجد خيارات أو مفتاح إجابة ظاهر.",
@@ -1009,12 +1039,16 @@
           "correct": null,
           "has_diagram": true,
           "diagram_bbox": [
-            370,
-            70,
-            520,
-            170
+            0.07,
+            0.09,
+            0.41,
+            0.22
           ],
-          "notes": "يوجد رسم توضيحي لنقطة التماس ونصف القطر."
+          "notes": "يوجد رسم توضيحي لنقطة التماس ونصف القطر.",
+          "diagram_path": "images/question_1_diagram.png",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "Circle with points A, B, D and a chord.",
+          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_1_diagram.png"
         },
         {
           "number": 2,
@@ -1028,12 +1062,16 @@
           "correct": null,
           "has_diagram": true,
           "diagram_bbox": [
-            60,
-            60,
-            320,
-            170
+            0.57,
+            0.13,
+            0.91,
+            0.23
           ],
-          "notes": "يوجد رسم توضيحي لمماسين من نقطة خارج الدائرة."
+          "notes": "يوجد رسم توضيحي لمماسين من نقطة خارج الدائرة.",
+          "diagram_path": "images/question_2_diagram.png",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "Circle with a radius and a perpendicular tangent line labeled S and T.",
+          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_2_diagram.png"
         },
         {
           "number": 3,
@@ -1045,9 +1083,18 @@
             "D": ""
           },
           "correct": null,
-          "has_diagram": false,
-          "diagram_bbox": null,
-          "notes": ""
+          "has_diagram": true,
+          "diagram_bbox": [
+            0.57,
+            0.32,
+            0.91,
+            0.41
+          ],
+          "notes": "",
+          "diagram_path": "images/question_3_diagram.png",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "Two circles each with a chord and labeled points, showing equal segments.",
+          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_3_diagram.png"
         },
         {
           "number": 4,
@@ -1061,12 +1108,16 @@
           "correct": null,
           "has_diagram": true,
           "diagram_bbox": [
-            370,
-            220,
-            520,
-            320
+            0.57,
+            0.47,
+            0.91,
+            0.56
           ],
-          "notes": "يوجد رسم توضيحي لوترين متقاطعين داخل دائرة."
+          "notes": "يوجد رسم توضيحي لوترين متقاطعين داخل دائرة.",
+          "diagram_path": "images/question_4_diagram.png",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "Two circles each with intersecting chords and labeled points, showing equal angles.",
+          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_4_diagram.png"
         },
         {
           "number": 5,
@@ -1078,14 +1129,10 @@
             "D": ""
           },
           "correct": null,
-          "has_diagram": true,
-          "diagram_bbox": [
-            60,
-            220,
-            320,
-            320
-          ],
-          "notes": "يوجد رسم توضيحي لوترين متقاطعين خارج دائرة."
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "يوجد رسم توضيحي لوترين متقاطعين خارج دائرة.",
+          "diagram_path": ""
         },
         {
           "number": 6,
@@ -1097,14 +1144,12 @@
             "D": ""
           },
           "correct": null,
-          "has_diagram": true,
-          "diagram_bbox": [
-            60,
-            340,
-            320,
-            420
-          ],
-          "notes": "يوجد رسم توضيحي لأوتار في دائرة."
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "يوجد رسم توضيحي لأوتار في دائرة.",
+          "diagram_path": "",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "Circle with intersecting chords AB, AC, AD, AE, and another circle with intersecting chords AB, BC, EB, BD."
         },
         {
           "number": 7,
@@ -1118,12 +1163,16 @@
           "correct": null,
           "has_diagram": true,
           "diagram_bbox": [
-            370,
-            340,
-            520,
-            420
+            0.57,
+            0.75,
+            0.91,
+            0.86
           ],
-          "notes": "يوجد رسم توضيحي لأوتار متقاطعة."
+          "notes": "يوجد رسم توضيحي لأوتار متقاطعة.",
+          "diagram_path": "images/question_7_diagram.png",
+          "diagram_kind": "single_diagram",
+          "diagram_description": "Circle with points A, B, C, D, E and colored segments showing intersecting chords.",
+          "deliverable_image": "WhatsApp_Image_2026-01-11_at_3.08.39_PM_3_question_7_diagram.png"
         },
         {
           "number": 8,
@@ -1135,14 +1184,10 @@
             "D": ""
           },
           "correct": null,
-          "has_diagram": true,
-          "diagram_bbox": [
-            570,
-            340,
-            720,
-            420
-          ],
-          "notes": "يوجد رسم توضيحي لأوتار متقاطعة."
+          "has_diagram": false,
+          "diagram_bbox": null,
+          "notes": "يوجد رسم توضيحي لأوتار متقاطعة.",
+          "diagram_path": ""
         }
       ],
       "quality_notes": "الصفحة تحتوي على ملخصات وقوانين مع رسومات توضيحية، لا توجد اختيارات أو مفتاح إجابة، وتم استخراج كل بند كعنصر سؤال منفصل.",
@@ -1176,7 +1221,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "بطاقة تعريفية عن الوحدة التخيلية i"
+          "notes": "بطاقة تعريفية عن الوحدة التخيلية i",
+          "diagram_path": ""
         },
         {
           "number": 2,
@@ -1190,7 +1236,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "تعريف الصورة الجبرية للعدد المركب"
+          "notes": "تعريف الصورة الجبرية للعدد المركب",
+          "diagram_path": ""
         },
         {
           "number": 3,
@@ -1204,7 +1251,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "تعريف الصورة القطبية للعدد المركب"
+          "notes": "تعريف الصورة القطبية للعدد المركب",
+          "diagram_path": ""
         },
         {
           "number": 4,
@@ -1218,7 +1266,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "نظرية ديموافر للضرب والقسمة والأس"
+          "notes": "نظرية ديموافر للضرب والقسمة والأس",
+          "diagram_path": ""
         },
         {
           "number": 5,
@@ -1232,7 +1281,8 @@
           "correct": null,
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": "نظرية ديموافر للجذور النونية"
+          "notes": "نظرية ديموافر للجذور النونية",
+          "diagram_path": ""
         }
       ],
       "quality_notes": "الصفحة تحتوي على بطاقات تعريفية ونظريات بدون أسئلة اختيار من متعدد أو خيارات إجابة واضحة. لا يوجد مفتاح إجابة ظاهر.",
@@ -1282,7 +1332,8 @@
           "correct": "D",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 2,
@@ -1296,7 +1347,8 @@
           "correct": "C",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 3,
@@ -1310,7 +1362,8 @@
           "correct": "B",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 4,
@@ -1324,7 +1377,8 @@
           "correct": "A",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 5,
@@ -1338,7 +1392,8 @@
           "correct": "D",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 6,
@@ -1352,7 +1407,8 @@
           "correct": "C",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 7,
@@ -1366,7 +1422,8 @@
           "correct": "A",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 8,
@@ -1380,7 +1437,8 @@
           "correct": "B",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 9,
@@ -1394,7 +1452,8 @@
           "correct": "A",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         },
         {
           "number": 10,
@@ -1408,7 +1467,8 @@
           "correct": "C",
           "has_diagram": false,
           "diagram_bbox": null,
-          "notes": ""
+          "notes": "",
+          "diagram_path": ""
         }
       ],
       "quality_notes": "تم استخراج جميع الأسئلة بوضوح مع جدول الإجابات. لا توجد رسوم بيانية.",
